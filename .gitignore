@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+
+# Local skill/submodule checkout
+web-design-skill/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.env
+.npmrc
+.netrc
+auth.json
+credentials.json
+service-account*.json
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.crt
+*.cer
+*.jks
+*.keystore
+
+# Cookies and session dumps
+cookies.txt
+cookie*.txt
+*cookies*.txt
+*.cookies
+
+# Local application data
+data/*.sqlite
+data/*.sqlite-*
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+
+# Generated output and caches
+renders/
+.next/
+out/
+dist/
+build/
+coverage/
+.cache/
+.turbo/
+*.tsbuildinfo
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
