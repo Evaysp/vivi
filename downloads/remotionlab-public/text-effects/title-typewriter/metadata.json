@@ -1,0 +1,20 @@
+{
+  "title": "打字機字卡",
+  "description": "逐字打出文字，帶閃爍游標效果，適合標題卡、引言或訊息展示。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "簡約",
+    "橫式"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-typewriter/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-typewriter/thumb.png",
+  "fileName": "TypewriterTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的打字機字卡元件（檔案：TypewriterTitle.tsx），請幫我做以下調整：\n\n1. 把顯示的文字從「Hello, Remotion.」改成「___」\n2. 把打字速度從每幀 2 個字改成每幀 ___ 個字（數字越大越快）\n3. 把文字顏色從白色改成「___」\n4. 把背景色從深藍 #0f172a 改成「___」\n5. 把游標顏色從青色 #38bdf8 改成「___」\n6. 把字體大小從 72px 改成 ___px\n\n請保留原本的逐字打出效果和游標閃爍，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-typewriter",
+  "templateUrl": "https://remotionlab.com/showcase/title-typewriter",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

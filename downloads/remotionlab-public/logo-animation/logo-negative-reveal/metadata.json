@@ -1,0 +1,23 @@
+{
+  "title": "負空間圓形 Logo 揭幕",
+  "description": "以同背景色遮罩圓形從 scale(3) 收縮至消失，白色品牌圓形逐漸露出，搭配快速掃描線閃過強調揭幕瞬間，再以 SVG 描邊細邊框環繞，最後品牌名與副標語依序淡入。適合設計師、攝影師或以留白美學為核心的品牌。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "品牌",
+    "負空間",
+    "遮罩",
+    "圓形",
+    "極簡"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-negative-reveal/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-negative-reveal/thumb.jpg",
+  "fileName": "LogoNegativeReveal.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的負空間圓形 Logo 揭幕動畫元件（檔案：LogoNegativeReveal.tsx），請幫我做以下調整：\n\n1. 修改圓形內的字母：把「N」改成你的品牌首字母（1 個大寫字母），fontSize 預設 100px\n2. 修改品牌名：把「Negative Space」改成你的品牌名（建議 1–3 個單字）\n3. 修改副標語：把「Less is more.」改成你的品牌標語\n4. 調整圓形大小：預設直徑 160px（width/height 160），調整時同步修改 SVG circle r 值（預設 88，比圓形半徑略大 8px 作為外框）\n5. 調整遮罩收縮速度：預設 frame 0-40（約 1.3 秒），想要更戲劇性可縮短到 0-25\n6. 調整外框描邊動畫速度：預設 frame 35-65，描邊顏色預設白色可改為品牌色\n7. 調整掃描線：預設高 200px，可改為圓形直徑的 1.5 倍；duration 預設 frame 0-5 可拉長到 0-8 讓掃描更明顯\n\n請保留遮罩收縮→外框描繪→品牌名→副標語的序列結構，只修改我指定的部分，並回傳完整修改後程式碼。\n",
+  "featured": false,
+  "slug": "logo-negative-reveal",
+  "templateUrl": "https://remotionlab.com/showcase/logo-negative-reveal",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

@@ -1,0 +1,75 @@
+:root {
+  --paper: oklch(0.965 0.018 78);
+  --paper-deep: oklch(0.934 0.024 78);
+  --paper-soft: oklch(0.884 0.018 78);
+  --ink: oklch(0.235 0.014 60);
+  --ink-2: oklch(0.285 0.015 60);
+  --ink-soft: oklch(0.355 0.016 60);
+  --ink-mute: oklch(0.56 0.014 60);
+  --ink-faint: oklch(0.72 0.012 60);
+  --accent: oklch(0.69 0.158 44);
+  --accent-strong: oklch(0.61 0.178 38);
+  --accent-soft: oklch(0.86 0.06 62);
+  --crimson: oklch(0.58 0.182 24);
+  --line: oklch(0.235 0.014 60 / 0.12);
+  --line-strong: oklch(0.235 0.014 60 / 0.28);
+  --line-on-ink: oklch(0.965 0.018 78 / 0.14);
+  --font-display: 'Instrument Serif', 'Noto Serif SC', Georgia, serif;
+  --font-ui: 'Manrope', 'Noto Sans SC', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: var(--paper-deep);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top right, color-mix(in oklab, var(--accent-soft) 42%, transparent), transparent 24rem),
+    radial-gradient(circle at bottom left, color-mix(in oklab, var(--accent) 12%, transparent), transparent 20rem),
+    linear-gradient(180deg, var(--paper-deep) 0%, var(--paper) 42%, color-mix(in oklab, var(--paper) 92%, white 8%) 100%);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.25), transparent 14%),
+    linear-gradient(to top, rgba(255, 255, 255, 0.12), transparent 12%);
+  opacity: 0.65;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button {
+  border-radius: 0;
+}

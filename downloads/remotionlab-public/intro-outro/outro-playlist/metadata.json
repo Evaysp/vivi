@@ -1,0 +1,20 @@
+{
+  "title": "播放清單推薦片尾",
+  "description": "深色背景上「你可能也喜歡」標題與播放全部按鈕淡入，四張影片卡片依序從下方彈性滑出，每張卡片顯示縮圖、播放按鈕、時長、標題、頻道名稱與觀看次數，底部進度條同步推進。",
+  "date": "2026-04-09",
+  "tags": [
+    "片尾",
+    "播放清單",
+    "影片推薦"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-playlist/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-playlist/thumb.jpg",
+  "fileName": "PlaylistOutro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的播放清單推薦片尾元件（檔案：PlaylistOutro.tsx），請幫我做以下調整：\n\n1. 把標題從「你可能也喜歡」改成「___」\n2. 把第一張影片卡片標題改成「___」\n3. 把所有卡片的頻道名稱從「Remotion 中文社群」改成「___」\n4. 把進度條顏色從 `#3b82f6` 改成「___」\n5. 把「播放全部」文字改成「___」\n6. 把背景色從 `#0f0f0f` 改成「___」\n\n請保留原本的依序滑入與進度條動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "outro-playlist",
+  "templateUrl": "https://remotionlab.com/showcase/outro-playlist",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

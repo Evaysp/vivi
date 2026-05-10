@@ -1,0 +1,20 @@
+{
+  "title": "三秒倒數片頭",
+  "description": "3、2、1 倒數搭配彩色圓環進度條，每個數字以縮放彈入、淡出切換，最後顯示「GO!」，適合競賽、遊戲或活動直播開場。",
+  "date": "2026-04-09",
+  "tags": [
+    "片頭",
+    "倒數",
+    "計時"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-countdown-3/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-countdown-3/thumb.jpg",
+  "fileName": "Countdown3Intro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的三秒倒數片頭元件（檔案：Countdown3Intro.tsx），請幫我做以下調整：\n\n1. 把每個數字的持續幀數從 30 改成「___」\n2. 把數字 3 的圓環顏色從 `#ef4444` 改成「___」\n3. 把數字 2 的圓環顏色從 `#f59e0b` 改成「___」\n4. 把數字 1 的圓環顏色從 `#22c55e` 改成「___」\n5. 把「GO」的圓環顏色從 `#3b82f6` 改成「___」\n6. 把背景顏色從 `#0f172a` 改成「___」\n\n請保留原本的倒數與圓環動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "intro-countdown-3",
+  "templateUrl": "https://remotionlab.com/showcase/intro-countdown-3",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

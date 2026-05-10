@@ -1,0 +1,20 @@
+{
+  "title": "打字機片頭",
+  "description": "模擬真實打字機效果，等寬字體標題逐字元顯示並搭配閃爍游標，待全文打完後副標題以彈性淡入現身，呈現簡潔有力的程式風格開場。",
+  "date": "2026-04-09",
+  "tags": [
+    "片頭",
+    "打字機",
+    "等寬字體"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-typewriter/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-typewriter/thumb.jpg",
+  "fileName": "TypewriterIntro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的打字機片頭元件（檔案：TypewriterIntro.tsx），請幫我做以下調整：\n\n1. 把主標題文字從 `YOUR CHANNEL NAME` 改成「___」\n2. 把副標題從 `SUBSCRIBE & STAY TUNED` 改成「___」\n3. 把每幀打出字元速度從每 4 frames 改成每「___」frames\n4. 把主標題字型大小從 90 改成「___」\n5. 把副標題顏色從 `#888888` 改成「___」\n6. 把背景色從 `#000000` 改成「___」\n\n請保留原本的打字動畫與游標閃爍邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "intro-typewriter",
+  "templateUrl": "https://remotionlab.com/showcase/intro-typewriter",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

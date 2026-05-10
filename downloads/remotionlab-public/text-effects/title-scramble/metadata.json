@@ -1,0 +1,20 @@
+{
+  "title": "亂碼解碼字卡",
+  "description": "每個字元從隨機亂碼逐一解碼成正確文字，Matrix 風格的資訊感十足。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "華麗",
+    "橫式"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-scramble/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-scramble/thumb.jpg",
+  "fileName": "ScrambleTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的亂碼解碼字卡元件（檔案：ScrambleTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"DECODED\" 改成「___」（建議全大寫，7 個字元以內效果最佳）\n2. 把解碼後的文字顏色從亮綠 #00ff41 改成「___」\n3. 把亂碼狀態的顏色從暗綠 #007a20 改成「___」\n4. 把背景色從極深綠黑 #050a05 改成「___」\n5. 把字體從等寬字型 Courier New 改成「___」（等寬字型效果最佳，例如：'Lucida Console', monospace）\n6. 把每個字元的解碼間隔從每 6 幀改成每 ___ 幀（數字越大，解碼越慢）\n\n請保留原本的逐字元亂碼解碼效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-scramble",
+  "templateUrl": "https://remotionlab.com/showcase/title-scramble",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

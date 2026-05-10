@@ -1,0 +1,215 @@
+{
+  "category": "文字特效",
+  "fetchedAt": "2026-04-21T15:59:06.780Z",
+  "count": 16,
+  "templates": [
+    {
+      "title": "3D 旋轉字卡",
+      "slug": "title-3d-rotate",
+      "fileName": "Rotate3DTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-3d-rotate",
+      "tags": [
+        "文字",
+        "3D",
+        "華麗"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-3d-rotate/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-3d-rotate/thumb.jpg"
+    },
+    {
+      "title": "模糊聚焦字卡",
+      "slug": "title-blur-focus",
+      "fileName": "BlurFocusTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-blur-focus",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-blur-focus/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-blur-focus/thumb.jpg"
+    },
+    {
+      "title": "故障風字卡",
+      "slug": "title-glitch-text",
+      "fileName": "GlitchTextTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-glitch-text",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-glitch-text/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-glitch-text/thumb.jpg"
+    },
+    {
+      "title": "漸層擦拭字卡",
+      "slug": "title-gradient-wipe",
+      "fileName": "GradientWipeTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-gradient-wipe",
+      "tags": [
+        "文字",
+        "漸層",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-gradient-wipe/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-gradient-wipe/thumb.jpg"
+    },
+    {
+      "title": "手寫風字卡",
+      "slug": "title-handwriting",
+      "fileName": "HandwritingTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-handwriting",
+      "tags": [
+        "文字",
+        "SVG",
+        "華麗"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-handwriting/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-handwriting/thumb.jpg"
+    },
+    {
+      "title": "彈跳動態字卡",
+      "slug": "title-kinetic-bounce",
+      "fileName": "KineticBounceTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-kinetic-bounce",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-kinetic-bounce/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-kinetic-bounce/thumb.jpg"
+    },
+    {
+      "title": "霓虹發光字卡",
+      "slug": "title-neon-glow",
+      "fileName": "NeonGlowTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-neon-glow",
+      "tags": [
+        "文字",
+        "華麗",
+        "漸層"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-neon-glow/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-neon-glow/thumb.jpg"
+    },
+    {
+      "title": "亂碼解碼字卡",
+      "slug": "title-scramble",
+      "fileName": "ScrambleTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-scramble",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-scramble/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-scramble/thumb.jpg"
+    },
+    {
+      "title": "掃光閃耀字卡",
+      "slug": "title-shimmer",
+      "fileName": "ShimmerTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-shimmer",
+      "tags": [
+        "文字",
+        "華麗",
+        "漸層"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-shimmer/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-shimmer/thumb.jpg"
+    },
+    {
+      "title": "老虎機字卡",
+      "slug": "title-slot-reel",
+      "fileName": "SlotReelTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-slot-reel",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-slot-reel/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-slot-reel/thumb.jpg"
+    },
+    {
+      "title": "分割揭示字卡",
+      "slug": "title-split-reveal",
+      "fileName": "SplitRevealTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-split-reveal",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-split-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-split-reveal/thumb.jpg"
+    },
+    {
+      "title": "逐行交錯字卡",
+      "slug": "title-stagger-lines",
+      "fileName": "StaggerLinesTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-stagger-lines",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-stagger-lines/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-stagger-lines/thumb.jpg"
+    },
+    {
+      "title": "打字機字卡",
+      "slug": "title-typewriter",
+      "fileName": "TypewriterTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-typewriter",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-typewriter/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-typewriter/thumb.png"
+    },
+    {
+      "title": "波浪律動字卡",
+      "slug": "title-wave-text",
+      "fileName": "WaveTextTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-wave-text",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-wave-text/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-wave-text/thumb.jpg"
+    },
+    {
+      "title": "逐字淡入字卡",
+      "slug": "title-word-fade",
+      "fileName": "WordFadeTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-word-fade",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-word-fade/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-word-fade/thumb.jpg"
+    },
+    {
+      "title": "衝擊縮放字卡",
+      "slug": "title-zoom-punch",
+      "fileName": "ZoomPunchTitle.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/title-zoom-punch",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-zoom-punch/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-zoom-punch/thumb.jpg"
+    }
+  ]
+}

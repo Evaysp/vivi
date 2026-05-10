@@ -1,0 +1,20 @@
+{
+  "title": "老虎機字卡",
+  "description": "每個字母像老虎機滾輪一樣從上往下捲動，依序停在最終字元上。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "華麗",
+    "橫式"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-slot-reel/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-slot-reel/thumb.jpg",
+  "fileName": "SlotReelTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的老虎機字卡元件（檔案：SlotReelTitle.tsx），請幫我做以下調整：\n\n1. 把最終顯示文字從 \"REWIND\" 改成「___」（需同步更新 FINAL-TEXT 和 REEL-PREFIXES，每個位置提供 4 個過渡字元）\n2. 把最終字元的顏色從金黃 #fbbf24 改成「___」\n3. 把過渡字元的顏色從深灰 #374151 改成「___」\n4. 把背景色從深藍黑 #1a1a2e 改成「___」\n5. 把字體大小從 96px 改成 ___px（需同步調整 ITEM-HEIGHT 為字體大小的 1.15 倍）\n6. 把每個字元的出場延遲從 8 幀改成 ___ 幀（數字越大，字元依序出現的間隔越長）\n\n請保留原本的老虎機滾輪效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-slot-reel",
+  "templateUrl": "https://remotionlab.com/showcase/title-slot-reel",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "電影感字幕片頭",
+  "description": "純黑背景上，頂部細線展開後第一行小字淡入，大字標題以彈性動畫從下方滑入，接續第三行小字淡入，最後底部細線展開收尾，層次分明地呈現電影開場字幕質感。",
+  "date": "2026-04-09",
+  "tags": [
+    "片頭",
+    "電影感",
+    "字幕"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-text/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-text/thumb.jpg",
+  "fileName": "CinematicTextIntro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的電影感字幕片頭元件（檔案：CinematicTextIntro.tsx），請幫我做以下調整：\n\n1. 把第一行小字從 `A FILM BY REMOTION` 改成「___」\n2. 把大字標題從 `The Story Begins` 改成「___」\n3. 把第三行小字從 `COMING SOON` 改成「___」\n4. 把大字標題字型大小從 64 改成「___」\n5. 把第三行小字顏色從 `#888888` 改成「___」\n6. 把細線長度從 120 改成「___」\n\n請保留原本的依序淡入動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "intro-cinematic-text",
+  "templateUrl": "https://remotionlab.com/showcase/intro-cinematic-text",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "捲動字幕片尾",
+  "description": "純黑背景搭配雙側細線裝飾，職稱與姓名列表從畫面底部線性向上捲動，末尾附感謝觀看文字，呈現電影謝幕風格的片尾字幕。",
+  "date": "2026-04-09",
+  "tags": [
+    "片尾",
+    "字幕",
+    "捲動"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-credits-roll/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-credits-roll/thumb.jpg",
+  "fileName": "CreditsRollOutro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的捲動字幕片尾元件（檔案：CreditsRollOutro.tsx），請幫我做以下調整：\n\n1. 把製作人姓名從 `張小明` 改成「___」\n2. 把導演姓名從 `李美麗` 改成「___」\n3. 把感謝觀看文字從 `感謝觀看` 改成「___」\n4. 把感謝副文字從 `Thank you for watching` 改成「___」\n5. 把字幕欄寬從 600px 改成「___」\n6. 在字幕列表中新增一組職稱「___」、姓名「___」\n\n請保留原本的捲動動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "outro-credits-roll",
+  "templateUrl": "https://remotionlab.com/showcase/outro-credits-roll",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

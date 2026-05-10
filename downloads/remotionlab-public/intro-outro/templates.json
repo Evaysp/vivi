@@ -1,0 +1,244 @@
+{
+  "category": "片頭/片尾",
+  "fetchedAt": "2026-04-21T15:59:06.780Z",
+  "count": 18,
+  "templates": [
+    {
+      "title": "電影感黑邊片頭",
+      "slug": "intro-cinematic-bars",
+      "fileName": "CinematicBarsIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-cinematic-bars",
+      "tags": [
+        "片頭",
+        "電影",
+        "黑邊"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-bars/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-bars/thumb.jpg"
+    },
+    {
+      "title": "電影感字幕片頭",
+      "slug": "intro-cinematic-text",
+      "fileName": "CinematicTextIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-cinematic-text",
+      "tags": [
+        "片頭",
+        "電影感",
+        "字幕"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-text/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-text/thumb.jpg"
+    },
+    {
+      "title": "三秒倒數片頭",
+      "slug": "intro-countdown-3",
+      "fileName": "Countdown3Intro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-countdown-3",
+      "tags": [
+        "片頭",
+        "倒數",
+        "計時"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-countdown-3/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-countdown-3/thumb.jpg"
+    },
+    {
+      "title": "幾何圖形片頭",
+      "slug": "intro-geometric",
+      "fileName": "GeometricIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-geometric",
+      "tags": [
+        "片頭",
+        "幾何",
+        "彈性動畫"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-geometric/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-geometric/thumb.jpg"
+    },
+    {
+      "title": "Logo 變形片頭",
+      "slug": "intro-logo-morph",
+      "fileName": "LogoMorphIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-logo-morph",
+      "tags": [
+        "片頭",
+        "Logo",
+        "變形"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-logo-morph/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-logo-morph/thumb.jpg"
+    },
+    {
+      "title": "極簡淡入片頭",
+      "slug": "intro-minimal-fade",
+      "fileName": "MinimalFadeIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-minimal-fade",
+      "tags": [
+        "片頭",
+        "淡入",
+        "極簡"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-minimal-fade/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-minimal-fade/thumb.jpg"
+    },
+    {
+      "title": "新聞播報片頭",
+      "slug": "intro-news-broadcast",
+      "fileName": "NewsBroadcastIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-news-broadcast",
+      "tags": [
+        "片頭",
+        "新聞",
+        "跑馬燈"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-news-broadcast/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-news-broadcast/thumb.jpg"
+    },
+    {
+      "title": "粒子爆發片頭",
+      "slug": "intro-particle-burst",
+      "fileName": "ParticleBurstIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-particle-burst",
+      "tags": [
+        "片頭",
+        "粒子",
+        "特效"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-particle-burst/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-particle-burst/thumb.jpg"
+    },
+    {
+      "title": "分割螢幕片頭",
+      "slug": "intro-split-screen",
+      "fileName": "SplitScreenIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-split-screen",
+      "tags": [
+        "片頭",
+        "分割螢幕",
+        "彈性動畫"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-split-screen/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-split-screen/thumb.jpg"
+    },
+    {
+      "title": "打字機片頭",
+      "slug": "intro-typewriter",
+      "fileName": "TypewriterIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-typewriter",
+      "tags": [
+        "片頭",
+        "打字機",
+        "等寬字體"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-typewriter/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-typewriter/thumb.jpg"
+    },
+    {
+      "title": "VHS 復古片頭",
+      "slug": "intro-vhs-retro",
+      "fileName": "VhsRetroIntro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/intro-vhs-retro",
+      "tags": [
+        "片頭",
+        "VHS",
+        "復古",
+        "RGB 色差"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-vhs-retro/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-vhs-retro/thumb.jpg"
+    },
+    {
+      "title": "留言互動片尾",
+      "slug": "outro-comment-cta",
+      "fileName": "CommentCtaOutro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/outro-comment-cta",
+      "tags": [
+        "片尾",
+        "留言",
+        "互動",
+        "CTA"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-comment-cta/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-comment-cta/thumb.jpg"
+    },
+    {
+      "title": "捲動字幕片尾",
+      "slug": "outro-credits-roll",
+      "fileName": "CreditsRollOutro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/outro-credits-roll",
+      "tags": [
+        "片尾",
+        "字幕",
+        "捲動"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-credits-roll/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-credits-roll/thumb.jpg"
+    },
+    {
+      "title": "影片推薦結尾卡",
+      "slug": "outro-end-screen",
+      "fileName": "EndScreenOutro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/outro-end-screen",
+      "tags": [
+        "片尾",
+        "結尾卡",
+        "YouTube",
+        "訂閱"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-end-screen/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-end-screen/thumb.jpg"
+    },
+    {
+      "title": "播放清單推薦片尾",
+      "slug": "outro-playlist",
+      "fileName": "PlaylistOutro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/outro-playlist",
+      "tags": [
+        "片尾",
+        "播放清單",
+        "影片推薦"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-playlist/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-playlist/thumb.jpg"
+    },
+    {
+      "title": "社群連結片尾",
+      "slug": "outro-social-links",
+      "fileName": "SocialLinksOutro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/outro-social-links",
+      "tags": [
+        "片尾",
+        "社群",
+        "連結"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-social-links/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-social-links/thumb.jpg"
+    },
+    {
+      "title": "贊助感謝片尾",
+      "slug": "outro-sponsor",
+      "fileName": "SponsorOutro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/outro-sponsor",
+      "tags": [
+        "片尾",
+        "贊助",
+        "廣告"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-sponsor/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-sponsor/thumb.jpg"
+    },
+    {
+      "title": "訂閱 CTA 片尾",
+      "slug": "outro-subscribe-cta",
+      "fileName": "SubscribeCtaOutro.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/outro-subscribe-cta",
+      "tags": [
+        "片尾",
+        "訂閱",
+        "CTA"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-subscribe-cta/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-subscribe-cta/thumb.jpg"
+    }
+  ]
+}

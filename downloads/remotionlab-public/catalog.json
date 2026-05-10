@@ -1,0 +1,1005 @@
+{
+  "source": "https://remotionlab.com/showcase",
+  "fetchedAt": "2026-04-21T15:59:06.780Z",
+  "scope": [
+    "Logo 動畫",
+    "片頭/片尾",
+    "文字特效"
+  ],
+  "templateCount": 50,
+  "templates": [
+    {
+      "title": "電影感黑邊片頭",
+      "description": "上下黑色遮幕從畫面外滑入形成電影寬銀幕比例，主標題與副標題依序淡入，結尾時黑邊再度展開收場，充滿電影質感。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "電影",
+        "黑邊"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-bars/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-bars/thumb.jpg",
+      "fileName": "CinematicBarsIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的電影感黑邊片頭元件（檔案：CinematicBarsIntro.tsx），請幫我做以下調整：\n\n1. 把黑邊高度從 216px 改成「___」\n2. 把主標題從 `Cinematic Title` 改成「___」\n3. 把副標題從 `A Film by Your Name` 改成「___」\n4. 把主標題字型大小從 72 改成「___」\n5. 把背景漸層從 `linear-gradient(180deg, #111111 0%, #1a1a2e 100%)` 改成「___」\n6. 把黑邊進場結束幀從 40 改成「___」\n\n請保留原本的黑邊動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-cinematic-bars",
+      "templateUrl": "https://remotionlab.com/showcase/intro-cinematic-bars",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "電影感字幕片頭",
+      "description": "純黑背景上，頂部細線展開後第一行小字淡入，大字標題以彈性動畫從下方滑入，接續第三行小字淡入，最後底部細線展開收尾，層次分明地呈現電影開場字幕質感。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "電影感",
+        "字幕"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-text/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-text/thumb.jpg",
+      "fileName": "CinematicTextIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的電影感字幕片頭元件（檔案：CinematicTextIntro.tsx），請幫我做以下調整：\n\n1. 把第一行小字從 `A FILM BY REMOTION` 改成「___」\n2. 把大字標題從 `The Story Begins` 改成「___」\n3. 把第三行小字從 `COMING SOON` 改成「___」\n4. 把大字標題字型大小從 64 改成「___」\n5. 把第三行小字顏色從 `#888888` 改成「___」\n6. 把細線長度從 120 改成「___」\n\n請保留原本的依序淡入動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-cinematic-text",
+      "templateUrl": "https://remotionlab.com/showcase/intro-cinematic-text",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "三秒倒數片頭",
+      "description": "3、2、1 倒數搭配彩色圓環進度條，每個數字以縮放彈入、淡出切換，最後顯示「GO!」，適合競賽、遊戲或活動直播開場。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "倒數",
+        "計時"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-countdown-3/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-countdown-3/thumb.jpg",
+      "fileName": "Countdown3Intro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的三秒倒數片頭元件（檔案：Countdown3Intro.tsx），請幫我做以下調整：\n\n1. 把每個數字的持續幀數從 30 改成「___」\n2. 把數字 3 的圓環顏色從 `#ef4444` 改成「___」\n3. 把數字 2 的圓環顏色從 `#f59e0b` 改成「___」\n4. 把數字 1 的圓環顏色從 `#22c55e` 改成「___」\n5. 把「GO」的圓環顏色從 `#3b82f6` 改成「___」\n6. 把背景顏色從 `#0f172a` 改成「___」\n\n請保留原本的倒數與圓環動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-countdown-3",
+      "templateUrl": "https://remotionlab.com/showcase/intro-countdown-3",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "幾何圖形片頭",
+      "description": "六個彩色幾何圖形（方塊、菱形、圓形）從畫面四周以彈性動畫飛入定位，待圖形就位後主標題縮放進場、副標題淡入，以活潑的色彩對比打造現代感片頭。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "幾何",
+        "彈性動畫"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-geometric/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-geometric/thumb.jpg",
+      "fileName": "GeometricIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的幾何圖形片頭元件（檔案：GeometricIntro.tsx），請幫我做以下調整：\n\n1. 把主標題從 `Geometric Title` 改成「___」\n2. 把副標題從 `Creative Subtitle` 改成「___」\n3. 把主標題字型大小從 80 改成「___」\n4. 把圖形 1（方塊）顏色從 `#3b82f6` 改成「___」\n5. 把圖形 2（菱形）顏色從 `#8b5cf6` 改成「___」\n6. 把背景色從 `#0f172a` 改成「___」\n\n請保留原本的彈性飛入動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-geometric",
+      "templateUrl": "https://remotionlab.com/showcase/intro-geometric",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "Logo 變形片頭",
+      "description": "幾何圓形縮放登場後漸變為圓角方形，同時顏色從白色過渡至品牌藍，縮寫文字淡入，品牌全名從右滑入，副標語最後淡出現身。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "Logo",
+        "變形"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-logo-morph/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-logo-morph/thumb.jpg",
+      "fileName": "LogoMorphIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的 Logo 變形片頭元件（檔案：LogoMorphIntro.tsx），請幫我做以下調整：\n\n1. 把品牌縮寫從 `RC` 改成「___」\n2. 把品牌全名從 `Remotion Community` 改成「___」\n3. 把副標語從 `繁體中文社群入口網站` 改成「___」\n4. 把形狀最終顏色從藍色（`rgb(59, 130, 246)`）改成「___」\n5. 把形狀最終 border-radius 從 12px 改成「___」\n6. 把背景顏色從 `#0f172a` 改成「___」\n\n請保留原本的形狀變形與文字進場動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-logo-morph",
+      "templateUrl": "https://remotionlab.com/showcase/intro-logo-morph",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "極簡淡入片頭",
+      "description": "純黑背景搭配極簡排版，Logo 文字、主標題、細線分隔線與副標題依序淡入滑出，打造典雅、低調的片頭氛圍。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "淡入",
+        "極簡"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-minimal-fade/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-minimal-fade/thumb.jpg",
+      "fileName": "MinimalFadeIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的極簡淡入片頭元件（檔案：MinimalFadeIntro.tsx），請幫我做以下調整：\n\n1. 把 Logo 文字從 `YOUR LOGO` 改成「___」\n2. 把主標題從 `Main Title Here` 改成「___」\n3. 把副標題從 `Subtitle goes here` 改成「___」\n4. 把主標題字型大小從 72 改成「___」\n5. 把副標題顏色從 `#888888` 改成「___」\n6. 把背景顏色從 `#000000` 改成「___」\n\n請保留原本的淡入動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-minimal-fade",
+      "templateUrl": "https://remotionlab.com/showcase/intro-minimal-fade",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "新聞播報片頭",
+      "description": "仿照電視新聞播報風格，頂部紅色橫條搭配頻道名稱淡入、主標題從右側彈性滑入、黃色副標題強調直播狀態，底部跑馬燈文字列持續滾動，打造專業的現場新聞感。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "新聞",
+        "跑馬燈"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-news-broadcast/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-news-broadcast/thumb.jpg",
+      "fileName": "NewsBroadcastIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的新聞播報片頭元件（檔案：NewsBroadcastIntro.tsx），請幫我做以下調整：\n\n1. 把頻道名稱從 `NEWS CHANNEL` 改成「___」\n2. 把主標題從 `Breaking News` 改成「___」\n3. 把副標題從 `今日頭條 ● LIVE` 改成「___」\n4. 把跑馬燈文字改成「___」\n5. 把頂部橫條與跑馬燈顏色從 `#dc2626` 改成「___」\n6. 把背景色從 `#0a0a0a` 改成「___」\n\n請保留原本的滑入與跑馬燈動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-news-broadcast",
+      "templateUrl": "https://remotionlab.com/showcase/intro-news-broadcast",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "粒子爆發片頭",
+      "description": "40 顆彩色粒子從畫面中心向外爆發，再匯聚回中心消散，隨後標題以縮放淡入效果呈現，視覺衝擊力強烈的開場動畫。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "粒子",
+        "特效"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-particle-burst/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-particle-burst/thumb.jpg",
+      "fileName": "ParticleBurstIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的粒子爆發片頭元件（檔案：ParticleBurstIntro.tsx），請幫我做以下調整：\n\n1. 把粒子數量從 40 改成「___」\n2. 把粒子顏色陣列從 `[\"#3b82f6\", \"#8b5cf6\", \"#f59e0b\"]` 改成「___」\n3. 把標題文字從 `YOUR TITLE` 改成「___」\n4. 把標題字型大小從 80 改成「___」\n5. 把背景顏色從 `#0a0a0a` 改成「___」\n6. 把粒子最大擴散距離從 `100 + (index % 5) * 80` 改成「___」\n\n請保留原本的爆發匯聚動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-particle-burst",
+      "templateUrl": "https://remotionlab.com/showcase/intro-particle-burst",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "分割螢幕片頭",
+      "description": "畫面左右兩格分別從螢幕外側以彈性動畫滑入，搭配藍色中央分隔線消逝效果，左格呈現副標題、右格依序滑入主標題與下方說明文字，打造強烈的雙欄視覺衝擊。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "分割螢幕",
+        "彈性動畫"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-split-screen/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-split-screen/thumb.jpg",
+      "fileName": "SplitScreenIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的分割螢幕片頭元件（檔案：SplitScreenIntro.tsx），請幫我做以下調整：\n\n1. 把左格副標題從 `Subtitle Text` 改成「___」\n2. 把右格主標題從 `Main Title` 改成「___」\n3. 把右格下方副標題從 `Additional Subtitle` 改成「___」\n4. 把左格背景色從 `#1e293b` 改成「___」\n5. 把右格背景色從 `#0f172a` 改成「___」\n6. 把中央分隔線顏色從 `#3b82f6` 改成「___」\n\n請保留原本的彈性滑入動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-split-screen",
+      "templateUrl": "https://remotionlab.com/showcase/intro-split-screen",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "打字機片頭",
+      "description": "模擬真實打字機效果，等寬字體標題逐字元顯示並搭配閃爍游標，待全文打完後副標題以彈性淡入現身，呈現簡潔有力的程式風格開場。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "打字機",
+        "等寬字體"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-typewriter/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-typewriter/thumb.jpg",
+      "fileName": "TypewriterIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的打字機片頭元件（檔案：TypewriterIntro.tsx），請幫我做以下調整：\n\n1. 把主標題文字從 `YOUR CHANNEL NAME` 改成「___」\n2. 把副標題從 `SUBSCRIBE & STAY TUNED` 改成「___」\n3. 把每幀打出字元速度從每 4 frames 改成每「___」frames\n4. 把主標題字型大小從 90 改成「___」\n5. 把副標題顏色從 `#888888` 改成「___」\n6. 把背景色從 `#000000` 改成「___」\n\n請保留原本的打字動畫與游標閃爍邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-typewriter",
+      "templateUrl": "https://remotionlab.com/showcase/intro-typewriter",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "VHS 復古片頭",
+      "description": "仿照老式 VHS 錄影帶質感，畫面帶有水平抖動與掃描線，左上角顯示閃爍 REC 紅點與即時時間碼，主標題以 RGB 色差三層渲染，呈現強烈的復古錄像風格。",
+      "date": "2026-04-09",
+      "tags": [
+        "片頭",
+        "VHS",
+        "復古",
+        "RGB 色差"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-vhs-retro/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-vhs-retro/thumb.jpg",
+      "fileName": "VhsRetroIntro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的 VHS 復古片頭元件（檔案：VhsRetroIntro.tsx），請幫我做以下調整：\n\n1. 把主標題從 `YOUR CHANNEL` 改成「___」\n2. 把副標題從 `Est. 2024 · Video Production` 改成「___」\n3. 把主標題字型大小從 80 改成「___」\n4. 把掃描線透明度從 `rgba(0,0,0,0.15)` 改成「___」\n5. 把 REC 紅點顏色從 `#ff2222` 改成「___」\n6. 把背景色從 `#0a0a0a` 改成「___」\n\n請保留原本的抖動、掃描線與 RGB 色差動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "intro-vhs-retro",
+      "templateUrl": "https://remotionlab.com/showcase/intro-vhs-retro",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "留言互動片尾",
+      "description": "深藍背景上大問號彈跳進場，主問題文字從下方滑入，副文字淡入說明，留言輸入框縮放現身並顯示閃爍游標，最後三則假留言依序滑入，引導觀眾在下方留言互動。",
+      "date": "2026-04-09",
+      "tags": [
+        "片尾",
+        "留言",
+        "互動",
+        "CTA"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-comment-cta/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-comment-cta/thumb.jpg",
+      "fileName": "CommentCtaOutro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的留言互動片尾元件（檔案：CommentCtaOutro.tsx），請幫我做以下調整：\n\n1. 把主問題文字從「你有什麼想法嗎？」改成「___」\n2. 把副文字從「在下方留言告訴我們吧！」改成「___」\n3. 把留言框提示文字從「新增留言…」改成「___」\n4. 把大問號顏色從 `#3b82f6` 改成「___」\n5. 把背景色從 `#0f172a` 改成「___」\n6. 把假留言頭像顏色（第一則）從 `#3b82f6` 改成「___」\n\n請保留原本的彈跳、滑入與游標閃爍動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "outro-comment-cta",
+      "templateUrl": "https://remotionlab.com/showcase/outro-comment-cta",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "捲動字幕片尾",
+      "description": "純黑背景搭配雙側細線裝飾，職稱與姓名列表從畫面底部線性向上捲動，末尾附感謝觀看文字，呈現電影謝幕風格的片尾字幕。",
+      "date": "2026-04-09",
+      "tags": [
+        "片尾",
+        "字幕",
+        "捲動"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-credits-roll/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-credits-roll/thumb.jpg",
+      "fileName": "CreditsRollOutro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的捲動字幕片尾元件（檔案：CreditsRollOutro.tsx），請幫我做以下調整：\n\n1. 把製作人姓名從 `張小明` 改成「___」\n2. 把導演姓名從 `李美麗` 改成「___」\n3. 把感謝觀看文字從 `感謝觀看` 改成「___」\n4. 把感謝副文字從 `Thank you for watching` 改成「___」\n5. 把字幕欄寬從 600px 改成「___」\n6. 在字幕列表中新增一組職稱「___」、姓名「___」\n\n請保留原本的捲動動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "outro-credits-roll",
+      "templateUrl": "https://remotionlab.com/showcase/outro-credits-roll",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "影片推薦結尾卡",
+      "description": "仿 YouTube 結尾卡版型，「繼續觀看」標題淡入後左右兩個影片推薦框分別從外側滑入，下方頻道頭像以彈跳動畫現身，最後訂閱按鈕彈出，引導觀眾繼續互動。",
+      "date": "2026-04-09",
+      "tags": [
+        "片尾",
+        "結尾卡",
+        "YouTube",
+        "訂閱"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-end-screen/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-end-screen/thumb.jpg",
+      "fileName": "EndScreenOutro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的影片推薦結尾卡元件（檔案：EndScreenOutro.tsx），請幫我做以下調整：\n\n1. 把頂部標題從「繼續觀看」改成「___」\n2. 把訂閱按鈕文字從「訂閱頻道」改成「___」\n3. 把頻道頭像背景色從 `#ff0000` 改成「___」\n4. 把訂閱按鈕背景色從 `#ff0000` 改成「___」\n5. 把整體背景色從 `#0f0f0f` 改成「___」\n6. 把影片佔位框邊框色從 `#404040` 改成「___」\n\n請保留原本的滑入與彈跳動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "outro-end-screen",
+      "templateUrl": "https://remotionlab.com/showcase/outro-end-screen",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "播放清單推薦片尾",
+      "description": "深色背景上「你可能也喜歡」標題與播放全部按鈕淡入，四張影片卡片依序從下方彈性滑出，每張卡片顯示縮圖、播放按鈕、時長、標題、頻道名稱與觀看次數，底部進度條同步推進。",
+      "date": "2026-04-09",
+      "tags": [
+        "片尾",
+        "播放清單",
+        "影片推薦"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-playlist/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-playlist/thumb.jpg",
+      "fileName": "PlaylistOutro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的播放清單推薦片尾元件（檔案：PlaylistOutro.tsx），請幫我做以下調整：\n\n1. 把標題從「你可能也喜歡」改成「___」\n2. 把第一張影片卡片標題改成「___」\n3. 把所有卡片的頻道名稱從「Remotion 中文社群」改成「___」\n4. 把進度條顏色從 `#3b82f6` 改成「___」\n5. 把「播放全部」文字改成「___」\n6. 把背景色從 `#0f0f0f` 改成「___」\n\n請保留原本的依序滑入與進度條動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "outro-playlist",
+      "templateUrl": "https://remotionlab.com/showcase/outro-playlist",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "社群連結片尾",
+      "description": "「追蹤我們」標題從上方淡入，YouTube、Instagram、Twitter/X、GitHub 四個平台圖示以交錯彈簧動畫依序滑入，最後整體淡出收場。",
+      "date": "2026-04-09",
+      "tags": [
+        "片尾",
+        "社群",
+        "連結"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-social-links/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-social-links/thumb.jpg",
+      "fileName": "SocialLinksOutro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的社群連結片尾元件（檔案：SocialLinksOutro.tsx），請幫我做以下調整：\n\n1. 把標題從 `追蹤我們` 改成「___」\n2. 把 YouTube 帳號從 `@mychannel` 改成「___」\n3. 把 Instagram 帳號從 `@myinsta` 改成「___」\n4. 把 Twitter/X 帳號從 `@mytwitter` 改成「___」\n5. 把 GitHub 帳號從 `@mygithub` 改成「___」\n6. 把背景漸層從 `linear-gradient(180deg, #0f172a 0%, #1e1b4b 100%)` 改成「___」\n\n請保留原本的交錯彈簧動畫與淡出邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "outro-social-links",
+      "templateUrl": "https://remotionlab.com/showcase/outro-social-links",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "贊助感謝片尾",
+      "description": "深藍漸層背景上「感謝本集贊助商」標題淡入，品牌 Logo 佔位框以縮放動畫彈出，斜體 Slogan 淡入後細橫線展開，金色優惠碼文字現身，最後「了解更多 →」按鈕彈出，提供完整的贊助商曝光版型。",
+      "date": "2026-04-09",
+      "tags": [
+        "片尾",
+        "贊助",
+        "廣告"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-sponsor/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-sponsor/thumb.jpg",
+      "fileName": "SponsorOutro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的贊助感謝片尾元件（檔案：SponsorOutro.tsx），請幫我做以下調整：\n\n1. 把品牌名稱從 `BRAND NAME` 改成「___」\n2. 把品牌 Slogan 從 `Empowering creators worldwide` 改成「___」\n3. 把優惠碼文字從「輸入優惠碼 REMOTION 享 85 折優惠」改成「___」\n4. 把「了解更多 →」按鈕文字改成「___」\n5. 把背景漸層從 `#0f172a → #0c1445` 改成「___」\n6. 把優惠碼文字顏色從 `#fbbf24` 改成「___」\n\n請保留原本的淡入與縮放動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "outro-sponsor",
+      "templateUrl": "https://remotionlab.com/showcase/outro-sponsor",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "訂閱 CTA 片尾",
+      "description": "頻道名稱以彈簧動畫滑入，紅色訂閱按鈕彈跳出現，搭配搖擺鈴鐺與按讚圖示，最後提示文字淡入，完整呈現 YouTube 頻道結尾號召行動。",
+      "date": "2026-04-09",
+      "tags": [
+        "片尾",
+        "訂閱",
+        "CTA"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-subscribe-cta/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-subscribe-cta/thumb.jpg",
+      "fileName": "SubscribeCtaOutro.tsx",
+      "category": "片頭/片尾",
+      "prompt": "我有一個用 Remotion 寫的訂閱 CTA 片尾元件（檔案：SubscribeCtaOutro.tsx），請幫我做以下調整：\n\n1. 把頻道名稱從 `我的頻道名稱` 改成「___」\n2. 把訂閱按鈕文字從 `訂閱` 改成「___」\n3. 把訂閱按鈕顏色從 `#ff0000` 改成「___」\n4. 把提示文字從 `記得開啟通知，不錯過任何新影片！` 改成「___」\n5. 把頻道名稱字型大小從 72 改成「___」\n6. 把背景顏色從 `#0f0f0f` 改成「___」\n\n請保留原本的彈簧動畫與鈴鐺搖擺邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "outro-subscribe-cta",
+      "templateUrl": "https://remotionlab.com/showcase/outro-subscribe-cta",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "徽章展開 Logo",
+      "description": "圓形徽章從小彈出，金色外圈描邊環繞一圈，品牌縮寫在圓心彈現，全名以水平展開方式揭示，最後年份字距緩緩拉開。適合企業、機構或精品品牌的正式開場。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "徽章",
+        "圓形",
+        "企業"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-badge-unfold/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-badge-unfold/thumb.jpg",
+      "fileName": "LogoBadgeUnfold.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的徽章展開 Logo 動畫元件（檔案：LogoBadgeUnfold.tsx），請幫我做以下調整：\n\n1. 把徽章底色從深藍 #1e3a5f 改成「___」\n2. 把外圈描邊顏色從金色 #f59e0b 改成「___」\n3. 把品牌縮寫從 \"AC\" 改成「___」（建議 2-3 個字母）\n4. 把品牌全名從 \"ACME CORP\" 改成「___」（全大寫效果最佳）\n5. 把年份從 \"EST. 2024\" 改成「___」，或刪除此行\n6. 調整徽章尺寸：預設直徑 280px，可等比例縮放（同步修改 SVG width/height、circle r 值）\n7. 調整外圈描邊速度：frame [20, 70] 可改成 [20, 50]（更快）或 [20, 90]（更慢）\n\n請保留圓形徽章的視覺結構與動畫序列，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-badge-unfold",
+      "templateUrl": "https://remotionlab.com/showcase/logo-badge-unfold",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "積木拼合 Logo",
+      "description": "藍、綠、橘、紅四個色塊依序 stagger 彈入，拼合成 2×2 logo 方格，品牌名稱隨後從右側滑現。適合需要強調多元色彩與活力感的品牌識別。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "積木",
+        "彩色",
+        "活力"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-block-build/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-block-build/thumb.jpg",
+      "fileName": "LogoBlockBuild.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的積木拼合 Logo 動畫元件（檔案：LogoBlockBuild.tsx），請幫我做以下調整：\n\n1. 把四個色塊顏色（BLOCK-COLORS 陣列）從藍/綠/橘/紅改成「___」（可以是你品牌的主色系）\n2. 把品牌名稱從 \"Colorblock\" 改成「___」\n3. 把副標語從 \"Bring your brand to life.\" 改成「___」\n4. 調整色塊大小：預設 100×100px，可改成其他尺寸（注意同步更新 gridSize 計算）\n5. 調整色塊圓角：預設 8px，可改成 0（直角）或更大值（如 24px 更圓潤）\n6. 調整出現間隔：BLOCK-OFFSETS 預設 [0, 15, 30, 45]，數字越小出現越快，越大越分散\n7. 調整彈入彈性：stiffness 預設 220，改大更彈跳（280），改小更緩慢（150）\n\n請保留 2×2 grid 與 stagger 動畫結構，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-block-build",
+      "templateUrl": "https://remotionlab.com/showcase/logo-block-build",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "品牌識別全套展示",
+      "description": "完整品牌識別依序登場：方形圖標彈入、品牌全名滑入、類別標籤、分隔線展開、色票逐一彈出，最後斜體標語收尾。適合設計系統與品牌提案場合。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "設計系統",
+        "色票",
+        "識別"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-brand-kit/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-brand-kit/thumb.jpg",
+      "fileName": "LogoBrandKit.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的品牌識別全套展示動畫元件（檔案：LogoBrandKit.tsx），請幫我做以下調整：\n\n1. 把圖標底色從靛藍（#6366f1）改成你的主品牌色\n2. 把圖標內的字母「B」改成你的品牌縮寫（1 個大寫字母，字型大小預設 72px）\n3. 把品牌全名「BrandKit」改成你的品牌名稱\n4. 把類別標籤「Design System」改成你的品牌類別或部門名稱（letterSpacing 4px 適合全大寫英文）\n5. 把色票顏色陣列 ['#6366f1','#8b5cf6','#a78bfa','#c4b5fd'] 改成你的品牌色系（4 個顏色，建議由深到淺）\n6. 把標語「Build with confidence.」改成你的品牌口號（斜體，預設 22px）\n7. 調整整體內容寬度：預設 860px，可視品牌名長短調整\n8. 調整圖標大小：預設 120×120px，圓角 20px，可依品牌風格調整\n\n請保留序列動畫結構（圖標彈入→品牌名滑入→標籤淡入→分隔線展開→色票逐一彈出→標語淡現），只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-brand-kit",
+      "templateUrl": "https://remotionlab.com/showcase/logo-brand-kit",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "古典獎章 Logo",
+      "description": "圓形獎章風格 Logo 動畫。外圓金色邊框逐幀描繪，八個裝飾圓點依序彈出，中央五角星及品牌縮寫「PR」分層登場，底部梯形絲帶橫向展開揭示文字，頂端標語最後淡入。適合精品、頒獎、機構品牌的正式開場。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "獎章",
+        "徽章",
+        "星形",
+        "金色",
+        "企業"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-emblem/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-emblem/thumb.jpg",
+      "fileName": "LogoEmblem.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的古典獎章 Logo 動畫元件（檔案：LogoEmblem.tsx），請幫我做以下調整：\n\n1. 把金色系主色從 #d97706 改成「___」（建議金色、銀色或銅色系）\n2. 把品牌縮寫從 \"PR\" 改成「___」（建議 1-3 個字母）\n3. 把底部絲帶文字從 \"PREMIUM\" 改成「___」（全大寫）\n4. 把頂部標語從 \"AWARD OF EXCELLENCE\" 改成「___」\n5. 調整外圓直徑：預設 r=155，可依需求修改（同步修改 outerCircumference 計算）\n6. 調整動畫速度：外圓描繪 frame [0, 35] 可改更快或更慢\n7. 若不需要裝飾圓點，可刪除 dotPositions 及對應 SVG circle 元素\n\n請保留圓形獎章的視覺結構與分層動畫序列，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-emblem",
+      "templateUrl": "https://remotionlab.com/showcase/logo-emblem",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "光暈脈衝 Logo",
+      "description": "科技/遊戲品牌風格 Logo 動畫。電紫與電藍漸層的菱形從中央 spring 彈入，背景輻射光暈同步亮起，外圈模糊光暈持續脈衝閃爍，品牌縮寫「GX」從內部浮現，品牌名由下滑入，最後狀態指示燈與 ONLINE 標籤完成畫面。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "科技",
+        "遊戲",
+        "光暈",
+        "菱形",
+        "電競"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-glow-pulse/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-glow-pulse/thumb.jpg",
+      "fileName": "LogoGlowPulse.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的光暈脈衝 Logo 動畫元件（檔案：LogoGlowPulse.tsx），請幫我做以下調整：\n\n1. 把主色漸層從 #7c3aed（電紫）→ #2563eb（電藍）改成「___」→「___」\n2. 把品牌縮寫從 \"GX\" 改成「___」（建議 1-2 個字母）\n3. 把品牌名從 \"GlowX\" 改成「___」\n4. 把狀態文字從 \"ONLINE\" 改成「___」（若不需要狀態列可刪除此區塊）\n5. 調整脈衝速度：預設 Math.sin(frame * 0.12)，數值越大脈衝越快\n6. 調整菱形大小：主菱形預設 120×120px，光暈菱形 160×160px，可等比例修改\n7. 背景改成非純黑：可修改 background: \"#050505\" 為其他深色\n\n請保留菱形 + 光暈脈衝的核心視覺結構，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-glow-pulse",
+      "templateUrl": "https://remotionlab.com/showcase/logo-glow-pulse",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "全息投影六芒星 Logo",
+      "description": "深藍黑背景上，青色六芒星（兩個疊合三角形）以 SVG 描邊動畫逐步顯現，搭配持續循環的水平掃描線與微幅閃爍，呈現 AI 科幻全息投影質感，品牌名與系統狀態文字依序登場。適合 AI、科技或賽博龐克風格品牌。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "全息",
+        "科幻",
+        "六芒星",
+        "AI",
+        "青色"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-hologram/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-hologram/thumb.jpg",
+      "fileName": "LogoHologram.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的全息投影六芒星 Logo 動畫元件（檔案：LogoHologram.tsx），請幫我做以下調整：\n\n1. 修改中心字樣：把「AI」改成你的品牌縮寫（1–3 個字母），fontSize 預設 50px\n2. 修改品牌名：把「Hologram.ai」改成你的品牌名，字體 monospace 保留以強調科技感\n3. 修改狀態文字：把「SYSTEM ONLINE」改成你的品牌狀語或狀態提示（letterSpacing 6px）\n4. 調整配色：\n   - 主色預設青色 #00ffff，可改為 #39ff14（霓虹綠）或其他發光色\n   - 副色預設藍色 #0ea5e9，通常為主色的冷暖對比\n   - 背景預設 #050a0f，建議維持深色\n5. 調整六芒星大小：中心 (960, 430)，半徑預設 80px，修改 r 常數即可縮放\n6. 調整掃描線範圍：預設 width 300px，對應六芒星寬度（約 160px 直徑 + 70px 餘量）\n7. 調整閃爍強度：`0.85 + 0.15 * Math.sin(frame * 0.3)` 中，0.15 控制閃爍幅度，0.3 控制閃爍頻率\n8. 調整各動畫時機：\n   - 淡入 frame 0-20\n   - 六芒星描邊 frame 20-60\n   - 中心字樣 frame 55-85\n   - 品牌名 frame 70-100\n   - 狀態文字 frame 90-115\n\n請保留淡入→六芒星描邊→中心字樣→品牌名→狀態文字的序列結構，只修改我指定的部分，並回傳完整修改後程式碼。\n",
+      "featured": false,
+      "slug": "logo-hologram",
+      "templateUrl": "https://remotionlab.com/showcase/logo-hologram",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "圖標揭示 Logo",
+      "description": "正方形漸層圖標彈入，閃電 SVG 路徑自動描繪後，品牌名稱從右側滑入，最後副標語柔和淡現。適合科技新創與設計工作室的品牌開場。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "科技",
+        "SVG描繪",
+        "滑入"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-icon-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-icon-reveal/thumb.jpg",
+      "fileName": "LogoIconReveal.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的圖標揭示 Logo 動畫元件（檔案：LogoIconReveal.tsx），請幫我做以下調整：\n\n1. 把圖標漸層從藍紫（#3b82f6→#8b5cf6）改成「___」（例如：橘紅 #f97316→#ef4444）\n2. 把圖標內的 SVG 閃電路徑改成你的品牌圖示（保留 pathLength=\"100\" 與 strokeDashoffset 動畫）\n3. 把品牌名稱從 \"Acme Studio\" 改成「___」\n4. 把副標語從 \"Design · Build · Launch\" 改成「___」\n5. 調整圖標大小：預設 80×80px，圓角 16px，可依比例調整\n6. 調整品牌名稱字型大小（預設 52px）與字重（預設 700）\n7. 調整彈入速度：stiffness 預設 200，想更彈跳改大（250），想更緩慢改小（120）\n\n請保留序列動畫結構（圖標彈入→路徑描繪→文字滑入→副標語淡現），只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-icon-reveal",
+      "templateUrl": "https://remotionlab.com/showcase/logo-icon-reveal",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "六邊形線條描繪 Logo",
+      "description": "SVG 線條逐步描繪出正六邊形輪廓，完成後品牌色填滿，內部三角符號浮現，最後品牌名以展開動畫登場。適合工程、科技與精密製造類品牌。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "SVG描繪",
+        "六邊形",
+        "線條"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-line-draw/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-line-draw/thumb.jpg",
+      "fileName": "LogoLineDraw.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的六邊形線條描繪 Logo 動畫元件（檔案：LogoLineDraw.tsx），請幫我做以下調整：\n\n1. 把六邊形填色從藍色（#3b82f6）改成你的品牌色（例如：翠綠 #10b981）\n2. 把內部白色三角形替換成你的品牌圖示（可改為 SVG polygon 或 path）\n3. 把品牌名稱「Hexagon Labs」改成你的品牌名（建議 1–3 個英文單字，字數影響展開效果）\n4. 把副標語「Precision Engineered.」改成你的品牌標語\n5. 調整六邊形大小：外接圓半徑預設 130px，中心點固定在畫面正中央（960, 440），可依需求縮放\n6. 調整描邊粗細：預設 3px，想要更粗獷改成 5–6px，想要更細緻改成 1–2px\n7. 調整描邊動畫速度：frame 0-60 約 2 秒，可拉長到 frame 0-90 讓描繪更慢\n8. 調整填色動畫時機：預設 frame 55-90，填色 fillOpacity 上限預設 0.85，可調整至 1.0 完全填滿\n\n請保留序列動畫結構（描邊→填色→三角形→品牌名展開→副標語淡現），只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-line-draw",
+      "templateUrl": "https://remotionlab.com/showcase/logo-line-draw",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "極簡圓點 Logo",
+      "description": "Apple/Nike 極簡風格 Logo 動畫。畫面中央一個白色小圓點從無到有，以 spring 緩慢展開為 120px 圓形 icon，內部出現抽象「進展」箭頭符號，品牌名從右側淡入滑出，下方細橫線展開，最後 tagline 帶著大字距淡入。大量留白，強調精緻感。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "極簡",
+        "圓形",
+        "品牌",
+        "科技"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-minimal-dot/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-minimal-dot/thumb.jpg",
+      "fileName": "LogoMinimalDot.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的極簡圓點 Logo 動畫元件（檔案：LogoMinimalDot.tsx），請幫我做以下調整：\n\n1. 把品牌名從 \"Dot Studio\" 改成「___」\n2. 把 tagline 從 \"Less. Better.\" 改成「___」（建議簡短有力）\n3. 把 icon 顏色從白色 #ffffff 改成「___」（同時修改內部斜線顏色為對比色）\n4. 調整圓點最終直徑：預設 120px，可修改 interpolate 目標值\n5. 調整品牌名字重：預設 fontWeight 300（極細），可改 400（正常）或 500（中等）\n6. 替換 icon 內部圖形：可把三條斜線換成其他簡單幾何（如十字、對勾、圓弧等）\n7. 調整整體水平位置：icon 中心預設在 960-160，可修改 iconCenterX 值\n\n請保留圓點展開的核心視覺與分層動畫序列，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-minimal-dot",
+      "templateUrl": "https://remotionlab.com/showcase/logo-minimal-dot",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "負空間圓形 Logo 揭幕",
+      "description": "以同背景色遮罩圓形從 scale(3) 收縮至消失，白色品牌圓形逐漸露出，搭配快速掃描線閃過強調揭幕瞬間，再以 SVG 描邊細邊框環繞，最後品牌名與副標語依序淡入。適合設計師、攝影師或以留白美學為核心的品牌。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "負空間",
+        "遮罩",
+        "圓形",
+        "極簡"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-negative-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-negative-reveal/thumb.jpg",
+      "fileName": "LogoNegativeReveal.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的負空間圓形 Logo 揭幕動畫元件（檔案：LogoNegativeReveal.tsx），請幫我做以下調整：\n\n1. 修改圓形內的字母：把「N」改成你的品牌首字母（1 個大寫字母），fontSize 預設 100px\n2. 修改品牌名：把「Negative Space」改成你的品牌名（建議 1–3 個單字）\n3. 修改副標語：把「Less is more.」改成你的品牌標語\n4. 調整圓形大小：預設直徑 160px（width/height 160），調整時同步修改 SVG circle r 值（預設 88，比圓形半徑略大 8px 作為外框）\n5. 調整遮罩收縮速度：預設 frame 0-40（約 1.3 秒），想要更戲劇性可縮短到 0-25\n6. 調整外框描邊動畫速度：預設 frame 35-65，描邊顏色預設白色可改為品牌色\n7. 調整掃描線：預設高 200px，可改為圓形直徑的 1.5 倍；duration 預設 frame 0-5 可拉長到 0-8 讓掃描更明顯\n\n請保留遮罩收縮→外框描繪→品牌名→副標語的序列結構，只修改我指定的部分，並回傳完整修改後程式碼。\n",
+      "featured": false,
+      "slug": "logo-negative-reveal",
+      "templateUrl": "https://remotionlab.com/showcase/logo-negative-reveal",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "軌道聚合 Logo 揭示",
+      "description": "三個彩色圓點繞中心軌道旋轉，隨後向中心聚合消失，漸層圓形圖標彈入，品牌名稱與副標語依序登場。動態感十足，適合科技與動態設計品牌。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "軌道",
+        "圓點",
+        "漸層"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-orbit-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-orbit-reveal/thumb.jpg",
+      "fileName": "LogoOrbitReveal.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的軌道聚合 Logo 揭示動畫元件（檔案：LogoOrbitReveal.tsx），請幫我做以下調整：\n\n1. 把中央圖標漸層從靛藍紫（#6366f1→#8b5cf6）改成你的品牌色組合\n2. 把圖標內的字母「V」改成你的品牌縮寫（1 個大寫字母，字型大小預設 60px）\n3. 把三個軌道圓點的顏色從 ['#3b82f6','#8b5cf6','#ec4899'] 改成你的品牌色系\n4. 把品牌名「Vertex」改成你的品牌名稱（建議 1–2 個英文單字）\n5. 把副標語「Motion by design.」改成你的品牌口號\n6. 調整中央圖標大小：預設直徑 120px，可依品牌識別調整\n7. 調整軌道半徑：預設 100px，半徑越大圓點旋轉圈越寬\n8. 調整旋轉速度：預設 frame * 0.06 弧度，增大數值加快旋轉\n\n請保留序列動畫結構（圖標彈入→圓點旋轉→聚合消失→品牌名登場→副標語淡現），只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-orbit-reveal",
+      "templateUrl": "https://remotionlab.com/showcase/logo-orbit-reveal",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "定位針落下 Logo",
+      "description": "地點/服務類品牌 Logo 動畫。紅色定位針從畫面上方急速落下，著地瞬間產生輕微壓縮彈跳與陰影暈散，圓形部分隨即以 spring 展開放大，品牌縮寫「LC」從內部彈出，品牌名與副標語依序滑入淡出。動感十足，適合地圖、外送、旅遊類品牌。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "定位針",
+        "地圖",
+        "服務",
+        "品牌",
+        "彈跳"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-pin-drop/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-pin-drop/thumb.jpg",
+      "fileName": "LogoPinDrop.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的定位針落下 Logo 動畫元件（檔案：LogoPinDrop.tsx），請幫我做以下調整：\n\n1. 把針頭顏色從紅色 #ef4444 改成「___」（建議品牌主色）\n2. 把品牌縮寫從 \"LC\" 改成「___」（建議 1-2 個字母）\n3. 把品牌名從 \"LocationCo.\" 改成「___」\n4. 把副標語從 \"Find your place.\" 改成「___」\n5. 調整針頭初始大小：圓形直徑預設 120px，展開後 200px，可修改 interpolate 目標值\n6. 調整落下速度：frame [0, 20] 可改成 [0, 15]（更快）或 [0, 30]（更慢）\n7. 調整彈跳效果：impactScaleY 的中間值 1.08 可調大（更強烈）或調小（更輕微）\n\n請保留定位針落下 + 展開的核心動畫結構，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-pin-drop",
+      "templateUrl": "https://remotionlab.com/showcase/logo-pin-drop",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "光圈聚焦 Logo",
+      "description": "大圓圈光圈從 600px 縮小聚焦至 160px 圓形 logo 底座，藍色光暈隨縮小增強，漢堡式圖標在圓心浮現，品牌名與標語依序淡入。適合攝影、視覺工作室或科技品牌的沉穩開場。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "光圈",
+        "聚焦",
+        "科技"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-ring-focus/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-ring-focus/thumb.jpg",
+      "fileName": "LogoRingFocus.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的光圈聚焦 Logo 動畫元件（檔案：LogoRingFocus.tsx），請幫我做以下調整：\n\n1. 把圓圈底色從深藍 #0f172a 改成「___」\n2. 把圓圈邊框顏色從白色改成「___」（例如金色 #f59e0b）\n3. 把光暈顏色從藍色 rgba(59,130,246) 改成「___」（可配合品牌色）\n4. 把圓圈內的漢堡圖示（三條橫線）換成你的品牌符號：可改成三角形、字母、或其他 div 組合圖形\n5. 把品牌名稱從 \"FOCUS LABS\" 改成「___」（全大寫字距效果最佳）\n6. 把品牌名稱字距從 8px 改成「___」\n7. 把標語從 \"See clearly.\" 改成「___」，或刪除\n8. 調整聚焦速度：frame [0, 50] 可改成 [0, 35]（更快）或 [0, 70]（更慢）\n\n請保留從大圓縮小聚焦的核心動畫邏輯，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-ring-focus",
+      "templateUrl": "https://remotionlab.com/showcase/logo-ring-focus",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "盾牌徽章逐層建立 Logo",
+      "description": "SVG 盾牌外框以金色描邊動畫逐步勾勒，接著深藍填色，品牌縮寫以 spring 彈出，金色彩帶從中央展開並顯示公司全名，最後副標語淡入完成徽章建立序列。適合企業、安全或法律相關品牌。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "盾牌",
+        "徽章",
+        "SVG描繪",
+        "企業"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-shield-crest/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-shield-crest/thumb.jpg",
+      "fileName": "LogoShieldCrest.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的盾牌徽章 Logo 動畫元件（檔案：LogoShieldCrest.tsx），請幫我做以下調整：\n\n1. 修改品牌縮寫：把「AC」改成你的品牌縮寫（1–3 個大寫字母），字體大小預設 80px 可調整\n2. 修改彩帶文字：把「ACME CORP」改成你的公司全名（建議 2–4 個英文單字，letterSpacing 0.12em）\n3. 修改副標語：把「Est. 2024」改成你的品牌標語或成立年份\n4. 調整盾牌配色：\n   - 外框描邊色預設金色 #f59e0b，可改為品牌色\n   - 填色預設深藍 #1e3a5f，可改為你的品牌色（建議深色）\n   - 彩帶背景預設金色 #f59e0b，通常與外框同色\n5. 調整盾牌大小：預設路徑 \"M 960 260 L 1080 310...\" 中心 960,425，可縮放頂點坐標\n6. 調整描邊粗細：預設 3px，strokeDasharray 固定 1200（約等於盾牌路徑周長）\n7. 調整各動畫段落時機：\n   - 描邊 frame 0-50（約 1.7 秒）\n   - 填色 frame 40-70\n   - 品牌縮寫 spring：frame 60 起動\n   - 彩帶展開 frame 80-105\n   - 文字淡入 frame 95-120\n   - 副標語 frame 110-130\n\n請保留盾牌→填色→縮寫→彩帶→文字→副標語的序列結構，只修改我指定的部分，並回傳完整修改後程式碼。\n",
+      "featured": false,
+      "slug": "logo-shield-crest",
+      "templateUrl": "https://remotionlab.com/showcase/logo-shield-crest",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "品牌印章蓋下",
+      "description": "紅色方形印章從上方快速落下並產生衝擊感，光暈閃現後印章內容依序淡入：品牌縮寫、弧形文字、年份，最後品牌全名與副標語登場。適合需要強烈存在感的品牌開場。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "印章",
+        "衝擊感",
+        "SVG弧形文字"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-stamp-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-stamp-reveal/thumb.jpg",
+      "fileName": "LogoStampReveal.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的品牌印章蓋下動畫元件（檔案：LogoStampReveal.tsx），請幫我做以下調整：\n\n1. 把印章底色從紅色（#dc2626）改成你的品牌色（例如：深藍 #1e40af）\n2. 把品牌縮寫從「BR」改成你的縮寫（1–3 個字母），並調整字型大小（預設 100px）\n3. 把弧形文字「BRAND STUDIO」改成你的品牌口號或全名（建議 2–4 個英文單字）\n4. 把「SINCE 2024」改成你的成立年份或自訂文字\n5. 把品牌全名「Brand Studio Inc.」改成你的正式名稱\n6. 把副標語「Identity · Strategy · Craft」改成你的服務描述\n7. 調整印章尺寸：預設 260×260px，圓角 12px，可依品牌風格調整\n8. 若想改為方形印章風格，可把圓角改成 0px；若想要圓形印章，改成 50%\n\n請保留序列動畫結構（落下衝擊→光暈→縮寫→弧形文字→年份→全名副標語），只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "logo-stamp-reveal",
+      "templateUrl": "https://remotionlab.com/showcase/logo-stamp-reveal",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "三角碎片拼合抽象 Logo",
+      "description": "三個彩色三角形碎片（藍、紫、青）各自從畫面外不同方向以 spring 彈飛入，stagger 12 幀逐一落定，拼合成完整等邊三角形，中央倒三角負空間隨後縮放顯現，形成幾何品牌圖標，品牌名與標語最後依序浮入。適合科技、設計或建築類品牌。",
+      "date": "2026-04-09",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "三角形",
+        "幾何",
+        "碎片",
+        "Spring動畫"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-triangle-form/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-triangle-form/thumb.jpg",
+      "fileName": "LogoTriangleForm.tsx",
+      "category": "Logo 動畫",
+      "prompt": "我有一個用 Remotion 寫的三角碎片拼合 Logo 動畫元件（檔案：LogoTriangleForm.tsx），請幫我做以下調整：\n\n1. 修改品牌名：把「Triform」改成你的品牌名（建議 1–2 個英文單字）\n2. 修改副標語：把「Built to last.」改成你的品牌標語\n3. 調整配色（三個小三角形）：\n   - 左下三角預設藍色 #3b82f6，可改為品牌主色\n   - 右下三角預設紫色 #8b5cf6，可改為品牌副色\n   - 頂部三角預設青色 #06b6d4，可改為品牌第三色\n   - 中央倒三角（負空間）背景色 #0f0f0f 需與畫面背景相同\n4. 調整三角形大小：\n   - 目前大三角高 220px，中心約 (960, 430)\n   - 頂點：頂部 (960,320)、左下 (833,540)、右下 (1087,540)\n   - 各小三角的頂點坐標需同步修改，請依比例縮放\n5. 調整 spring 物理參數：\n   - damping 預設 18（越低越彈跳），stiffness 預設 120（越高越快）\n   - stagger 間隔預設 12 幀，可縮到 8 幀（更緊湊）或拉到 16 幀（更連貫）\n6. 調整各三角形飛入起始位置：\n   - 左下：預設 (-300, 200)，可改成更遠如 (-500, 300)\n   - 右下：預設 (300, 200)\n   - 頂部：預設 (0, -300)，可改為 (0, -500)\n7. 調整品牌名與副標語出現時機：\n   - 品牌名 frame 80-105，副標語 frame 100-120\n\n請保留三角飛入→中央負空間→品牌名→副標語的序列結構，只修改我指定的部分，並回傳完整修改後程式碼。\n",
+      "featured": false,
+      "slug": "logo-triangle-form",
+      "templateUrl": "https://remotionlab.com/showcase/logo-triangle-form",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "3D 旋轉字卡",
+      "description": "文字從 Y 軸側面旋轉入場，搭配透視投影，立體感強烈。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "3D",
+        "華麗"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-3d-rotate/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-3d-rotate/thumb.jpg",
+      "fileName": "Rotate3DTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的 3D 旋轉字卡元件（檔案：Rotate3DTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"3D ROTATE\" 改成「___」\n2. 把文字顏色從近白 #fafafa 改成「___」\n3. 把背景色從深灰 #18181b 改成「___」\n4. 把字體大小從 110px 改成 ___px\n5. 把透視距離從 1200px 改成 ___px（數字越小，3D 效果越誇張）\n6. 把旋轉方向從 Y 軸（rotateY）改成「___」軸（可選：rotateX、rotateY、rotateZ）\n\n請保留原本的 3D 旋轉入場效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-3d-rotate",
+      "templateUrl": "https://remotionlab.com/showcase/title-3d-rotate",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "模糊聚焦字卡",
+      "description": "文字從極度模糊的狀態緩緩對焦清晰，同時伴隨輕微縮放，電影感十足。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-blur-focus/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-blur-focus/thumb.jpg",
+      "fileName": "BlurFocusTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的模糊聚焦字卡元件（檔案：BlurFocusTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"IN FOCUS\" 改成「___」\n2. 把文字顏色從白色 #ffffff 改成「___」\n3. 把背景色從純黑 #000000 改成「___」\n4. 把字體大小從 108px 改成 ___px\n5. 把起始模糊值從 40px 改成 ___px（數字越大，初始越模糊）\n6. 把聚焦速度調整：想更慢請把 stiffness 從 35 改小（例如 15）；想更快請改大（例如 60）\n\n請保留原本的模糊到清晰的聚焦效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-blur-focus",
+      "templateUrl": "https://remotionlab.com/showcase/title-blur-focus",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "故障風字卡",
+      "description": "文字帶 RGB 色道分離與閃爍故障效果，賽博龐克風格十足。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-glitch-text/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-glitch-text/thumb.jpg",
+      "fileName": "GlitchTextTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的故障風字卡元件（檔案：GlitchTextTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"GLITCH TEXT\" 改成「___」\n2. 把主文字顏色從白色 #ffffff 改成「___」\n3. 把紅色色道偏移顏色從 #ff0033 改成「___」\n4. 把藍色色道偏移顏色從 #0033ff 改成「___」\n5. 把背景色從近黑 #09090b 改成「___」\n6. 把故障幀數密度調整：GLITCH-FRAMES 陣列中的數字代表哪幾幀會觸發故障，可以增加或減少陣列中的數字來控制故障頻率\n\n請保留原本的 RGB 分離 + clip-path 故障效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-glitch-text",
+      "templateUrl": "https://remotionlab.com/showcase/title-glitch-text",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "漸層擦拭字卡",
+      "description": "文字從暗灰底色開始，漸層色帶由左至右擦過，鮮豔色彩逐漸顯現。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "漸層",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-gradient-wipe/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-gradient-wipe/thumb.jpg",
+      "fileName": "GradientWipeTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的漸層擦拭字卡元件（檔案：GradientWipeTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"Your Story Starts Here\" 改成「___」\n2. 把漸層色從青藍→紫→琥珀（#06b6d4 → #8b5cf6 → #f59e0b）改成「___」→「___」→「___」\n3. 把底層暗色文字從 #1f2937 改成「___」（越深越不明顯）\n4. 把背景色從近黑 #030712 改成「___」\n5. 把字體大小從 96px 改成 ___px\n6. 把擦拭速度調整：想更快請把 stiffness 從 50 改大（例如 100）；想更慢請改小（例如 20）\n\n請保留原本的由左至右漸層擦拭效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-gradient-wipe",
+      "templateUrl": "https://remotionlab.com/showcase/title-gradient-wipe",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "手寫風字卡",
+      "description": "模擬手寫筆跡逐漸描繪文字，描繪完成後填色浮現，底部帶裝飾底線。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "SVG",
+        "華麗"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-handwriting/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-handwriting/thumb.jpg",
+      "fileName": "HandwritingTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的手寫風字卡元件（檔案：HandwritingTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"Create\" 改成「___」（注意：文字越長可能需要調整 viewBox 寬度）\n2. 把文字顏色從深棕黑 #1c1917 改成「___」\n3. 把底部裝飾線的顏色從紅色 #ef4444 改成「___」\n4. 把背景色從米白 #fafaf9 改成「___」\n5. 把字體從 Georgia/Times New Roman 改成「___」（例如：'Arial', sans-serif）\n6. 把書寫速度調整：描繪動畫現在從第 10 幀到第 140 幀，想更快可改成第 10 到 80 幀\n\n請保留原本的筆跡描繪 → 填色浮現的效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-handwriting",
+      "templateUrl": "https://remotionlab.com/showcase/title-handwriting",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "彈跳動態字卡",
+      "description": "每個字從上方掉落並彈跳著地，spring 物理動畫讓文字充滿活力。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-kinetic-bounce/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-kinetic-bounce/thumb.jpg",
+      "fileName": "KineticBounceTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的彈跳動態字卡元件（檔案：KineticBounceTitle.tsx），請幫我做以下調整：\n\n1. 把顯示的文字從 [\"Make\", \"Your\", \"Videos\", \"Alive.\"] 改成 [\"___\", \"___\", \"___\", \"___\"]\n2. 把最後一個字的強調色從青色 #38bdf8 改成「___」\n3. 把字體大小從 96px 改成 ___px\n4. 把背景色從深藍 #0f172a 改成「___」\n5. 把彈跳強度改成更「___」（想更彈：把 damping 從 5 改小；想穩定：改大到 12-20）\n6. 把每個字的出場間隔從 15 幀改成 ___ 幀（數字越大，字出現得越慢）\n\n請保留原本的每字依序彈跳入場效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-kinetic-bounce",
+      "templateUrl": "https://remotionlab.com/showcase/title-kinetic-bounce",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "霓虹發光字卡",
+      "description": "文字模擬霓虹燈管：先不規則閃爍，再穩定亮起並散發強烈光暈。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "華麗",
+        "漸層"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-neon-glow/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-neon-glow/thumb.jpg",
+      "fileName": "NeonGlowTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的霓虹發光字卡元件（檔案：NeonGlowTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"NEON GLOW\" 改成「___」\n2. 把發光顏色從紫色系（#f0abfc、#d946ef）改成「___」色系（請自行選配兩個深淺色）\n3. 把文字顏色從淡紫 #f5d0fe 改成「___」\n4. 把字體從等寬字型 Courier New 改成「___」（例如：sans-serif、serif、Impact）\n5. 把背景色從極深紫 #050008 改成「___」\n6. 把閃爍結束時間從第 45 幀改成第 ___ 幀（數字越大，閃爍越久）\n\n請保留原本的閃爍 → 穩定亮起的效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-neon-glow",
+      "templateUrl": "https://remotionlab.com/showcase/title-neon-glow",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "亂碼解碼字卡",
+      "description": "每個字元從隨機亂碼逐一解碼成正確文字，Matrix 風格的資訊感十足。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-scramble/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-scramble/thumb.jpg",
+      "fileName": "ScrambleTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的亂碼解碼字卡元件（檔案：ScrambleTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"DECODED\" 改成「___」（建議全大寫，7 個字元以內效果最佳）\n2. 把解碼後的文字顏色從亮綠 #00ff41 改成「___」\n3. 把亂碼狀態的顏色從暗綠 #007a20 改成「___」\n4. 把背景色從極深綠黑 #050a05 改成「___」\n5. 把字體從等寬字型 Courier New 改成「___」（等寬字型效果最佳，例如：'Lucida Console', monospace）\n6. 把每個字元的解碼間隔從每 6 幀改成每 ___ 幀（數字越大，解碼越慢）\n\n請保留原本的逐字元亂碼解碼效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-scramble",
+      "templateUrl": "https://remotionlab.com/showcase/title-scramble",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "掃光閃耀字卡",
+      "description": "光線由左至右掃過金色文字，奢華品牌感的閃耀效果。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "華麗",
+        "漸層"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-shimmer/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-shimmer/thumb.jpg",
+      "fileName": "ShimmerTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的掃光閃耀字卡元件（檔案：ShimmerTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"GOLDEN HOUR\" 改成「___」\n2. 把底層文字顏色從暗金 #8b6914 改成「___」，掃光文字顏色從亮奶油 #fff8dc 改成「___」\n3. 把背景色從近黑 #0c0c0c 改成「___」\n4. 把字體大小從 100px 改成 ___px\n5. 把字母間距從 0.12em 改成 ___em（間距越大，掃光效果越明顯）\n6. 把掃光速度調整：目前從第 0 幀到第 80 幀掃過，想更快改成 0 到 50；想更慢改成 0 到 120\n\n請保留原本的由左至右掃光效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-shimmer",
+      "templateUrl": "https://remotionlab.com/showcase/title-shimmer",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "老虎機字卡",
+      "description": "每個字母像老虎機滾輪一樣從上往下捲動，依序停在最終字元上。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-slot-reel/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-slot-reel/thumb.jpg",
+      "fileName": "SlotReelTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的老虎機字卡元件（檔案：SlotReelTitle.tsx），請幫我做以下調整：\n\n1. 把最終顯示文字從 \"REWIND\" 改成「___」（需同步更新 FINAL-TEXT 和 REEL-PREFIXES，每個位置提供 4 個過渡字元）\n2. 把最終字元的顏色從金黃 #fbbf24 改成「___」\n3. 把過渡字元的顏色從深灰 #374151 改成「___」\n4. 把背景色從深藍黑 #1a1a2e 改成「___」\n5. 把字體大小從 96px 改成 ___px（需同步調整 ITEM-HEIGHT 為字體大小的 1.15 倍）\n6. 把每個字元的出場延遲從 8 幀改成 ___ 幀（數字越大，字元依序出現的間隔越長）\n\n請保留原本的老虎機滾輪效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-slot-reel",
+      "templateUrl": "https://remotionlab.com/showcase/title-slot-reel",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "分割揭示字卡",
+      "description": "水平分割線展開後，上下兩個字向外分離，乾淨俐落的揭示效果。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-split-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-split-reveal/thumb.jpg",
+      "fileName": "SplitRevealTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的分割揭示字卡元件（檔案：SplitRevealTitle.tsx），請幫我做以下調整：\n\n1. 把上方文字從 \"SPLIT\" 改成「___」\n2. 把下方文字從 \"REVEAL\" 改成「___」\n3. 把中間分割線的顏色從琥珀色 #f59e0b 改成「___」\n4. 把下方文字的顏色從琥珀色 #f59e0b 改成「___」\n5. 把背景色從深灰 #111827 改成「___」\n6. 把字體大小從 140px 改成 ___px\n\n請保留原本的分割線展開 → 文字上下分離的入場效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-split-reveal",
+      "templateUrl": "https://remotionlab.com/showcase/title-split-reveal",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "逐行交錯字卡",
+      "description": "三行文字分別從左、右、下方依序滑入，大小對比強調視覺層次。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-stagger-lines/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-stagger-lines/thumb.jpg",
+      "fileName": "StaggerLinesTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的逐行交錯字卡元件（檔案：StaggerLinesTitle.tsx），請幫我做以下調整：\n\n1. 把三行文字從 \"Design\" / \"with Purpose.\" / \"Move the World.\" 改成「___」/「___」/「___」\n2. 把三行文字的顏色從白/灰/藍（#ffffff / #94a3b8 / #38bdf8）改成「___」/「___」/「___」\n3. 把三行文字的字體大小從 120px / 72px / 58px 改成 ___px / ___px / ___px\n4. 把每行的出場方向從 left / right / bottom 改成「___」/「___」/「___」（可選：left、right、bottom）\n5. 把背景色從深藍 #0f172a 改成「___」\n6. 把每行的出場延遲從 0 / 20 / 40 幀改成 ___ / ___ / ___ 幀\n\n請保留原本的三行依序滑入效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-stagger-lines",
+      "templateUrl": "https://remotionlab.com/showcase/title-stagger-lines",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "打字機字卡",
+      "description": "逐字打出文字，帶閃爍游標效果，適合標題卡、引言或訊息展示。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-typewriter/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-typewriter/thumb.png",
+      "fileName": "TypewriterTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的打字機字卡元件（檔案：TypewriterTitle.tsx），請幫我做以下調整：\n\n1. 把顯示的文字從「Hello, Remotion.」改成「___」\n2. 把打字速度從每幀 2 個字改成每幀 ___ 個字（數字越大越快）\n3. 把文字顏色從白色改成「___」\n4. 把背景色從深藍 #0f172a 改成「___」\n5. 把游標顏色從青色 #38bdf8 改成「___」\n6. 把字體大小從 72px 改成 ___px\n\n請保留原本的逐字打出效果和游標閃爍，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-typewriter",
+      "templateUrl": "https://remotionlab.com/showcase/title-typewriter",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "波浪律動字卡",
+      "description": "每個字母依序上下起伏，彩虹配色形成活潑的波浪律動效果。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-wave-text/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-wave-text/thumb.jpg",
+      "fileName": "WaveTextTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的波浪律動字卡元件（檔案：WaveTextTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"MOTION\" 改成「___」（每個字母顏色從 COLORS 陣列循環取用）\n2. 把字母顏色陣列從粉紅/紫/藍/青/綠/黃改成「___」（以逗號分隔的 hex 色碼，幾個顏色都可以）\n3. 把背景色從深紫黑 #0f0a1a 改成「___」\n4. 把字體大小從 140px 改成 ___px\n5. 把波浪振幅從 28px 改成 ___px（數字越大，上下幅度越大）\n6. 把波浪速度從每 40 幀一個週期改成每 ___ 幀一個週期（數字越小，波浪越快）\n\n請保留原本的波浪律動效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-wave-text",
+      "templateUrl": "https://remotionlab.com/showcase/title-wave-text",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "逐字淡入字卡",
+      "description": "每個詞依序從下方淡入，大小與顏色對比強調視覺層次，乾淨現代。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "簡約",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-word-fade/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-word-fade/thumb.jpg",
+      "fileName": "WordFadeTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的逐字淡入字卡元件（檔案：WordFadeTitle.tsx），請幫我做以下調整：\n\n1. 把兩行文字從 \"Think\" / \"Different.\" 改成「___」/「___」\n2. 把第一行顏色從深黑 #0f172a 改成「___」\n3. 把第二行顏色從藍色 #3b82f6 改成「___」\n4. 把背景色從淺白 #f8fafc 改成「___」\n5. 把字體大小從 110px 改成 ___px\n6. 把兩行的出場間隔從 20 幀改成 ___ 幀（數字越大，第二行出現越晚）\n\n如果需要三行以上，可以在 WORDS 陣列中繼續新增 `{ text: \"___\", color: \"___\" }` 物件。\n\n請保留原本的逐詞淡入上移效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-word-fade",
+      "templateUrl": "https://remotionlab.com/showcase/title-word-fade",
+      "codeStatus": "locked behind site login; not downloaded"
+    },
+    {
+      "title": "衝擊縮放字卡",
+      "description": "文字從超大尺寸急速縮小至正常大小，帶彈跳的衝擊力十足。",
+      "date": "2026-04-09",
+      "tags": [
+        "文字",
+        "華麗",
+        "橫式"
+      ],
+      "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-zoom-punch/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-zoom-punch/thumb.jpg",
+      "fileName": "ZoomPunchTitle.tsx",
+      "category": "文字特效",
+      "prompt": "我有一個用 Remotion 寫的衝擊縮放字卡元件（檔案：ZoomPunchTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"IMPACT\" 改成「___」\n2. 把背景色從紅色 #dc2626 改成「___」\n3. 把文字顏色從白色 #ffffff 改成「___」\n4. 把字體大小從 130px 改成 ___px\n5. 把起始縮放倍數從 6 倍改成 ___ 倍（數字越大，衝擊感越強）\n6. 把彈跳感調整：想更彈改小 damping（目前 10，試試 6-8）；想更穩定改大（試試 15-20）\n\n請保留原本的縮放衝擊效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+      "featured": false,
+      "slug": "title-zoom-punch",
+      "templateUrl": "https://remotionlab.com/showcase/title-zoom-punch",
+      "codeStatus": "locked behind site login; not downloaded"
+    }
+  ]
+}

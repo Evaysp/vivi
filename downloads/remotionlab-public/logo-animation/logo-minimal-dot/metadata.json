@@ -1,0 +1,22 @@
+{
+  "title": "極簡圓點 Logo",
+  "description": "Apple/Nike 極簡風格 Logo 動畫。畫面中央一個白色小圓點從無到有，以 spring 緩慢展開為 120px 圓形 icon，內部出現抽象「進展」箭頭符號，品牌名從右側淡入滑出，下方細橫線展開，最後 tagline 帶著大字距淡入。大量留白，強調精緻感。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "極簡",
+    "圓形",
+    "品牌",
+    "科技"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-minimal-dot/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-minimal-dot/thumb.jpg",
+  "fileName": "LogoMinimalDot.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的極簡圓點 Logo 動畫元件（檔案：LogoMinimalDot.tsx），請幫我做以下調整：\n\n1. 把品牌名從 \"Dot Studio\" 改成「___」\n2. 把 tagline 從 \"Less. Better.\" 改成「___」（建議簡短有力）\n3. 把 icon 顏色從白色 #ffffff 改成「___」（同時修改內部斜線顏色為對比色）\n4. 調整圓點最終直徑：預設 120px，可修改 interpolate 目標值\n5. 調整品牌名字重：預設 fontWeight 300（極細），可改 400（正常）或 500（中等）\n6. 替換 icon 內部圖形：可把三條斜線換成其他簡單幾何（如十字、對勾、圓弧等）\n7. 調整整體水平位置：icon 中心預設在 960-160，可修改 iconCenterX 值\n\n請保留圓點展開的核心視覺與分層動畫序列，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "logo-minimal-dot",
+  "templateUrl": "https://remotionlab.com/showcase/logo-minimal-dot",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

@@ -1,0 +1,255 @@
+{
+  "category": "Logo 動畫",
+  "fetchedAt": "2026-04-21T15:59:06.780Z",
+  "count": 16,
+  "templates": [
+    {
+      "title": "徽章展開 Logo",
+      "slug": "logo-badge-unfold",
+      "fileName": "LogoBadgeUnfold.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-badge-unfold",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "徽章",
+        "圓形",
+        "企業"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-badge-unfold/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-badge-unfold/thumb.jpg"
+    },
+    {
+      "title": "積木拼合 Logo",
+      "slug": "logo-block-build",
+      "fileName": "LogoBlockBuild.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-block-build",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "積木",
+        "彩色",
+        "活力"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-block-build/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-block-build/thumb.jpg"
+    },
+    {
+      "title": "品牌識別全套展示",
+      "slug": "logo-brand-kit",
+      "fileName": "LogoBrandKit.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-brand-kit",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "設計系統",
+        "色票",
+        "識別"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-brand-kit/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-brand-kit/thumb.jpg"
+    },
+    {
+      "title": "古典獎章 Logo",
+      "slug": "logo-emblem",
+      "fileName": "LogoEmblem.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-emblem",
+      "tags": [
+        "Logo動畫",
+        "獎章",
+        "徽章",
+        "星形",
+        "金色",
+        "企業"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-emblem/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-emblem/thumb.jpg"
+    },
+    {
+      "title": "光暈脈衝 Logo",
+      "slug": "logo-glow-pulse",
+      "fileName": "LogoGlowPulse.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-glow-pulse",
+      "tags": [
+        "Logo動畫",
+        "科技",
+        "遊戲",
+        "光暈",
+        "菱形",
+        "電競"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-glow-pulse/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-glow-pulse/thumb.jpg"
+    },
+    {
+      "title": "全息投影六芒星 Logo",
+      "slug": "logo-hologram",
+      "fileName": "LogoHologram.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-hologram",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "全息",
+        "科幻",
+        "六芒星",
+        "AI",
+        "青色"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-hologram/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-hologram/thumb.jpg"
+    },
+    {
+      "title": "圖標揭示 Logo",
+      "slug": "logo-icon-reveal",
+      "fileName": "LogoIconReveal.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-icon-reveal",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "科技",
+        "SVG描繪",
+        "滑入"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-icon-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-icon-reveal/thumb.jpg"
+    },
+    {
+      "title": "六邊形線條描繪 Logo",
+      "slug": "logo-line-draw",
+      "fileName": "LogoLineDraw.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-line-draw",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "SVG描繪",
+        "六邊形",
+        "線條"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-line-draw/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-line-draw/thumb.jpg"
+    },
+    {
+      "title": "極簡圓點 Logo",
+      "slug": "logo-minimal-dot",
+      "fileName": "LogoMinimalDot.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-minimal-dot",
+      "tags": [
+        "Logo動畫",
+        "極簡",
+        "圓形",
+        "品牌",
+        "科技"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-minimal-dot/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-minimal-dot/thumb.jpg"
+    },
+    {
+      "title": "負空間圓形 Logo 揭幕",
+      "slug": "logo-negative-reveal",
+      "fileName": "LogoNegativeReveal.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-negative-reveal",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "負空間",
+        "遮罩",
+        "圓形",
+        "極簡"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-negative-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-negative-reveal/thumb.jpg"
+    },
+    {
+      "title": "軌道聚合 Logo 揭示",
+      "slug": "logo-orbit-reveal",
+      "fileName": "LogoOrbitReveal.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-orbit-reveal",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "軌道",
+        "圓點",
+        "漸層"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-orbit-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-orbit-reveal/thumb.jpg"
+    },
+    {
+      "title": "定位針落下 Logo",
+      "slug": "logo-pin-drop",
+      "fileName": "LogoPinDrop.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-pin-drop",
+      "tags": [
+        "Logo動畫",
+        "定位針",
+        "地圖",
+        "服務",
+        "品牌",
+        "彈跳"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-pin-drop/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-pin-drop/thumb.jpg"
+    },
+    {
+      "title": "光圈聚焦 Logo",
+      "slug": "logo-ring-focus",
+      "fileName": "LogoRingFocus.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-ring-focus",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "光圈",
+        "聚焦",
+        "科技"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-ring-focus/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-ring-focus/thumb.jpg"
+    },
+    {
+      "title": "盾牌徽章逐層建立 Logo",
+      "slug": "logo-shield-crest",
+      "fileName": "LogoShieldCrest.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-shield-crest",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "盾牌",
+        "徽章",
+        "SVG描繪",
+        "企業"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-shield-crest/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-shield-crest/thumb.jpg"
+    },
+    {
+      "title": "品牌印章蓋下",
+      "slug": "logo-stamp-reveal",
+      "fileName": "LogoStampReveal.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-stamp-reveal",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "印章",
+        "衝擊感",
+        "SVG弧形文字"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-stamp-reveal/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-stamp-reveal/thumb.jpg"
+    },
+    {
+      "title": "三角碎片拼合抽象 Logo",
+      "slug": "logo-triangle-form",
+      "fileName": "LogoTriangleForm.tsx",
+      "templateUrl": "https://remotionlab.com/showcase/logo-triangle-form",
+      "tags": [
+        "Logo動畫",
+        "品牌",
+        "三角形",
+        "幾何",
+        "碎片",
+        "Spring動畫"
+      ],
+      "previewVideo": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-triangle-form/preview.mp4",
+      "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-triangle-form/thumb.jpg"
+    }
+  ]
+}

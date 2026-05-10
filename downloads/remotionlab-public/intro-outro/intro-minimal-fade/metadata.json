@@ -1,0 +1,20 @@
+{
+  "title": "極簡淡入片頭",
+  "description": "純黑背景搭配極簡排版，Logo 文字、主標題、細線分隔線與副標題依序淡入滑出，打造典雅、低調的片頭氛圍。",
+  "date": "2026-04-09",
+  "tags": [
+    "片頭",
+    "淡入",
+    "極簡"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-minimal-fade/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-minimal-fade/thumb.jpg",
+  "fileName": "MinimalFadeIntro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的極簡淡入片頭元件（檔案：MinimalFadeIntro.tsx），請幫我做以下調整：\n\n1. 把 Logo 文字從 `YOUR LOGO` 改成「___」\n2. 把主標題從 `Main Title Here` 改成「___」\n3. 把副標題從 `Subtitle goes here` 改成「___」\n4. 把主標題字型大小從 72 改成「___」\n5. 把副標題顏色從 `#888888` 改成「___」\n6. 把背景顏色從 `#000000` 改成「___」\n\n請保留原本的淡入動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "intro-minimal-fade",
+  "templateUrl": "https://remotionlab.com/showcase/intro-minimal-fade",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

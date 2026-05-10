@@ -1,0 +1,21 @@
+{
+  "title": "影片推薦結尾卡",
+  "description": "仿 YouTube 結尾卡版型，「繼續觀看」標題淡入後左右兩個影片推薦框分別從外側滑入，下方頻道頭像以彈跳動畫現身，最後訂閱按鈕彈出，引導觀眾繼續互動。",
+  "date": "2026-04-09",
+  "tags": [
+    "片尾",
+    "結尾卡",
+    "YouTube",
+    "訂閱"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-end-screen/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-end-screen/thumb.jpg",
+  "fileName": "EndScreenOutro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的影片推薦結尾卡元件（檔案：EndScreenOutro.tsx），請幫我做以下調整：\n\n1. 把頂部標題從「繼續觀看」改成「___」\n2. 把訂閱按鈕文字從「訂閱頻道」改成「___」\n3. 把頻道頭像背景色從 `#ff0000` 改成「___」\n4. 把訂閱按鈕背景色從 `#ff0000` 改成「___」\n5. 把整體背景色從 `#0f0f0f` 改成「___」\n6. 把影片佔位框邊框色從 `#404040` 改成「___」\n\n請保留原本的滑入與彈跳動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "outro-end-screen",
+  "templateUrl": "https://remotionlab.com/showcase/outro-end-screen",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

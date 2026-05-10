@@ -1,0 +1,20 @@
+{
+  "title": "訂閱 CTA 片尾",
+  "description": "頻道名稱以彈簧動畫滑入，紅色訂閱按鈕彈跳出現，搭配搖擺鈴鐺與按讚圖示，最後提示文字淡入，完整呈現 YouTube 頻道結尾號召行動。",
+  "date": "2026-04-09",
+  "tags": [
+    "片尾",
+    "訂閱",
+    "CTA"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-subscribe-cta/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-subscribe-cta/thumb.jpg",
+  "fileName": "SubscribeCtaOutro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的訂閱 CTA 片尾元件（檔案：SubscribeCtaOutro.tsx），請幫我做以下調整：\n\n1. 把頻道名稱從 `我的頻道名稱` 改成「___」\n2. 把訂閱按鈕文字從 `訂閱` 改成「___」\n3. 把訂閱按鈕顏色從 `#ff0000` 改成「___」\n4. 把提示文字從 `記得開啟通知，不錯過任何新影片！` 改成「___」\n5. 把頻道名稱字型大小從 72 改成「___」\n6. 把背景顏色從 `#0f0f0f` 改成「___」\n\n請保留原本的彈簧動畫與鈴鐺搖擺邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "outro-subscribe-cta",
+  "templateUrl": "https://remotionlab.com/showcase/outro-subscribe-cta",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

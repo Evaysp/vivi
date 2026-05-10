@@ -1,0 +1,20 @@
+{
+  "title": "手寫風字卡",
+  "description": "模擬手寫筆跡逐漸描繪文字，描繪完成後填色浮現，底部帶裝飾底線。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "SVG",
+    "華麗"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-handwriting/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-handwriting/thumb.jpg",
+  "fileName": "HandwritingTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的手寫風字卡元件（檔案：HandwritingTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"Create\" 改成「___」（注意：文字越長可能需要調整 viewBox 寬度）\n2. 把文字顏色從深棕黑 #1c1917 改成「___」\n3. 把底部裝飾線的顏色從紅色 #ef4444 改成「___」\n4. 把背景色從米白 #fafaf9 改成「___」\n5. 把字體從 Georgia/Times New Roman 改成「___」（例如：'Arial', sans-serif）\n6. 把書寫速度調整：描繪動畫現在從第 10 幀到第 140 幀，想更快可改成第 10 到 80 幀\n\n請保留原本的筆跡描繪 → 填色浮現的效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-handwriting",
+  "templateUrl": "https://remotionlab.com/showcase/title-handwriting",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

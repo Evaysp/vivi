@@ -1,0 +1,20 @@
+{
+  "title": "3D 旋轉字卡",
+  "description": "文字從 Y 軸側面旋轉入場，搭配透視投影，立體感強烈。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "3D",
+    "華麗"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-3d-rotate/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-3d-rotate/thumb.jpg",
+  "fileName": "Rotate3DTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的 3D 旋轉字卡元件（檔案：Rotate3DTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"3D ROTATE\" 改成「___」\n2. 把文字顏色從近白 #fafafa 改成「___」\n3. 把背景色從深灰 #18181b 改成「___」\n4. 把字體大小從 110px 改成 ___px\n5. 把透視距離從 1200px 改成 ___px（數字越小，3D 效果越誇張）\n6. 把旋轉方向從 Y 軸（rotateY）改成「___」軸（可選：rotateX、rotateY、rotateZ）\n\n請保留原本的 3D 旋轉入場效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-3d-rotate",
+  "templateUrl": "https://remotionlab.com/showcase/title-3d-rotate",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

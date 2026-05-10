@@ -1,0 +1,22 @@
+{
+  "title": "品牌印章蓋下",
+  "description": "紅色方形印章從上方快速落下並產生衝擊感，光暈閃現後印章內容依序淡入：品牌縮寫、弧形文字、年份，最後品牌全名與副標語登場。適合需要強烈存在感的品牌開場。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "品牌",
+    "印章",
+    "衝擊感",
+    "SVG弧形文字"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-stamp-reveal/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-stamp-reveal/thumb.jpg",
+  "fileName": "LogoStampReveal.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的品牌印章蓋下動畫元件（檔案：LogoStampReveal.tsx），請幫我做以下調整：\n\n1. 把印章底色從紅色（#dc2626）改成你的品牌色（例如：深藍 #1e40af）\n2. 把品牌縮寫從「BR」改成你的縮寫（1–3 個字母），並調整字型大小（預設 100px）\n3. 把弧形文字「BRAND STUDIO」改成你的品牌口號或全名（建議 2–4 個英文單字）\n4. 把「SINCE 2024」改成你的成立年份或自訂文字\n5. 把品牌全名「Brand Studio Inc.」改成你的正式名稱\n6. 把副標語「Identity · Strategy · Craft」改成你的服務描述\n7. 調整印章尺寸：預設 260×260px，圓角 12px，可依品牌風格調整\n8. 若想改為方形印章風格，可把圓角改成 0px；若想要圓形印章，改成 50%\n\n請保留序列動畫結構（落下衝擊→光暈→縮寫→弧形文字→年份→全名副標語），只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "logo-stamp-reveal",
+  "templateUrl": "https://remotionlab.com/showcase/logo-stamp-reveal",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

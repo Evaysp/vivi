@@ -1,0 +1,22 @@
+{
+  "title": "品牌識別全套展示",
+  "description": "完整品牌識別依序登場：方形圖標彈入、品牌全名滑入、類別標籤、分隔線展開、色票逐一彈出，最後斜體標語收尾。適合設計系統與品牌提案場合。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "品牌",
+    "設計系統",
+    "色票",
+    "識別"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-brand-kit/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-brand-kit/thumb.jpg",
+  "fileName": "LogoBrandKit.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的品牌識別全套展示動畫元件（檔案：LogoBrandKit.tsx），請幫我做以下調整：\n\n1. 把圖標底色從靛藍（#6366f1）改成你的主品牌色\n2. 把圖標內的字母「B」改成你的品牌縮寫（1 個大寫字母，字型大小預設 72px）\n3. 把品牌全名「BrandKit」改成你的品牌名稱\n4. 把類別標籤「Design System」改成你的品牌類別或部門名稱（letterSpacing 4px 適合全大寫英文）\n5. 把色票顏色陣列 ['#6366f1','#8b5cf6','#a78bfa','#c4b5fd'] 改成你的品牌色系（4 個顏色，建議由深到淺）\n6. 把標語「Build with confidence.」改成你的品牌口號（斜體，預設 22px）\n7. 調整整體內容寬度：預設 860px，可視品牌名長短調整\n8. 調整圖標大小：預設 120×120px，圓角 20px，可依品牌風格調整\n\n請保留序列動畫結構（圖標彈入→品牌名滑入→標籤淡入→分隔線展開→色票逐一彈出→標語淡現），只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "logo-brand-kit",
+  "templateUrl": "https://remotionlab.com/showcase/logo-brand-kit",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

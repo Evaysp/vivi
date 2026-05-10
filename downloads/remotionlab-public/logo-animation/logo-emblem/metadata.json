@@ -1,0 +1,23 @@
+{
+  "title": "古典獎章 Logo",
+  "description": "圓形獎章風格 Logo 動畫。外圓金色邊框逐幀描繪，八個裝飾圓點依序彈出，中央五角星及品牌縮寫「PR」分層登場，底部梯形絲帶橫向展開揭示文字，頂端標語最後淡入。適合精品、頒獎、機構品牌的正式開場。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "獎章",
+    "徽章",
+    "星形",
+    "金色",
+    "企業"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-emblem/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-emblem/thumb.jpg",
+  "fileName": "LogoEmblem.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的古典獎章 Logo 動畫元件（檔案：LogoEmblem.tsx），請幫我做以下調整：\n\n1. 把金色系主色從 #d97706 改成「___」（建議金色、銀色或銅色系）\n2. 把品牌縮寫從 \"PR\" 改成「___」（建議 1-3 個字母）\n3. 把底部絲帶文字從 \"PREMIUM\" 改成「___」（全大寫）\n4. 把頂部標語從 \"AWARD OF EXCELLENCE\" 改成「___」\n5. 調整外圓直徑：預設 r=155，可依需求修改（同步修改 outerCircumference 計算）\n6. 調整動畫速度：外圓描繪 frame [0, 35] 可改更快或更慢\n7. 若不需要裝飾圓點，可刪除 dotPositions 及對應 SVG circle 元素\n\n請保留圓形獎章的視覺結構與分層動畫序列，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "logo-emblem",
+  "templateUrl": "https://remotionlab.com/showcase/logo-emblem",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

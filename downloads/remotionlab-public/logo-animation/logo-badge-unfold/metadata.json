@@ -1,0 +1,22 @@
+{
+  "title": "徽章展開 Logo",
+  "description": "圓形徽章從小彈出，金色外圈描邊環繞一圈，品牌縮寫在圓心彈現，全名以水平展開方式揭示，最後年份字距緩緩拉開。適合企業、機構或精品品牌的正式開場。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "品牌",
+    "徽章",
+    "圓形",
+    "企業"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-badge-unfold/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-badge-unfold/thumb.jpg",
+  "fileName": "LogoBadgeUnfold.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的徽章展開 Logo 動畫元件（檔案：LogoBadgeUnfold.tsx），請幫我做以下調整：\n\n1. 把徽章底色從深藍 #1e3a5f 改成「___」\n2. 把外圈描邊顏色從金色 #f59e0b 改成「___」\n3. 把品牌縮寫從 \"AC\" 改成「___」（建議 2-3 個字母）\n4. 把品牌全名從 \"ACME CORP\" 改成「___」（全大寫效果最佳）\n5. 把年份從 \"EST. 2024\" 改成「___」，或刪除此行\n6. 調整徽章尺寸：預設直徑 280px，可等比例縮放（同步修改 SVG width/height、circle r 值）\n7. 調整外圈描邊速度：frame [20, 70] 可改成 [20, 50]（更快）或 [20, 90]（更慢）\n\n請保留圓形徽章的視覺結構與動畫序列，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "logo-badge-unfold",
+  "templateUrl": "https://remotionlab.com/showcase/logo-badge-unfold",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

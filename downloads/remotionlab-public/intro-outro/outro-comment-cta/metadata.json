@@ -1,0 +1,21 @@
+{
+  "title": "留言互動片尾",
+  "description": "深藍背景上大問號彈跳進場，主問題文字從下方滑入，副文字淡入說明，留言輸入框縮放現身並顯示閃爍游標，最後三則假留言依序滑入，引導觀眾在下方留言互動。",
+  "date": "2026-04-09",
+  "tags": [
+    "片尾",
+    "留言",
+    "互動",
+    "CTA"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-comment-cta/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-comment-cta/thumb.jpg",
+  "fileName": "CommentCtaOutro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的留言互動片尾元件（檔案：CommentCtaOutro.tsx），請幫我做以下調整：\n\n1. 把主問題文字從「你有什麼想法嗎？」改成「___」\n2. 把副文字從「在下方留言告訴我們吧！」改成「___」\n3. 把留言框提示文字從「新增留言…」改成「___」\n4. 把大問號顏色從 `#3b82f6` 改成「___」\n5. 把背景色從 `#0f172a` 改成「___」\n6. 把假留言頭像顏色（第一則）從 `#3b82f6` 改成「___」\n\n請保留原本的彈跳、滑入與游標閃爍動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "outro-comment-cta",
+  "templateUrl": "https://remotionlab.com/showcase/outro-comment-cta",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

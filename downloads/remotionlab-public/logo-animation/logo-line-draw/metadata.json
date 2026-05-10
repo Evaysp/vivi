@@ -1,0 +1,22 @@
+{
+  "title": "六邊形線條描繪 Logo",
+  "description": "SVG 線條逐步描繪出正六邊形輪廓，完成後品牌色填滿，內部三角符號浮現，最後品牌名以展開動畫登場。適合工程、科技與精密製造類品牌。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "品牌",
+    "SVG描繪",
+    "六邊形",
+    "線條"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-line-draw/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-line-draw/thumb.jpg",
+  "fileName": "LogoLineDraw.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的六邊形線條描繪 Logo 動畫元件（檔案：LogoLineDraw.tsx），請幫我做以下調整：\n\n1. 把六邊形填色從藍色（#3b82f6）改成你的品牌色（例如：翠綠 #10b981）\n2. 把內部白色三角形替換成你的品牌圖示（可改為 SVG polygon 或 path）\n3. 把品牌名稱「Hexagon Labs」改成你的品牌名（建議 1–3 個英文單字，字數影響展開效果）\n4. 把副標語「Precision Engineered.」改成你的品牌標語\n5. 調整六邊形大小：外接圓半徑預設 130px，中心點固定在畫面正中央（960, 440），可依需求縮放\n6. 調整描邊粗細：預設 3px，想要更粗獷改成 5–6px，想要更細緻改成 1–2px\n7. 調整描邊動畫速度：frame 0-60 約 2 秒，可拉長到 frame 0-90 讓描繪更慢\n8. 調整填色動畫時機：預設 frame 55-90，填色 fillOpacity 上限預設 0.85，可調整至 1.0 完全填滿\n\n請保留序列動畫結構（描邊→填色→三角形→品牌名展開→副標語淡現），只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "logo-line-draw",
+  "templateUrl": "https://remotionlab.com/showcase/logo-line-draw",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

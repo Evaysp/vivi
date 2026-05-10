@@ -1,0 +1,20 @@
+{
+  "title": "分割螢幕片頭",
+  "description": "畫面左右兩格分別從螢幕外側以彈性動畫滑入，搭配藍色中央分隔線消逝效果，左格呈現副標題、右格依序滑入主標題與下方說明文字，打造強烈的雙欄視覺衝擊。",
+  "date": "2026-04-09",
+  "tags": [
+    "片頭",
+    "分割螢幕",
+    "彈性動畫"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-split-screen/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-split-screen/thumb.jpg",
+  "fileName": "SplitScreenIntro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的分割螢幕片頭元件（檔案：SplitScreenIntro.tsx），請幫我做以下調整：\n\n1. 把左格副標題從 `Subtitle Text` 改成「___」\n2. 把右格主標題從 `Main Title` 改成「___」\n3. 把右格下方副標題從 `Additional Subtitle` 改成「___」\n4. 把左格背景色從 `#1e293b` 改成「___」\n5. 把右格背景色從 `#0f172a` 改成「___」\n6. 把中央分隔線顏色從 `#3b82f6` 改成「___」\n\n請保留原本的彈性滑入動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "intro-split-screen",
+  "templateUrl": "https://remotionlab.com/showcase/intro-split-screen",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

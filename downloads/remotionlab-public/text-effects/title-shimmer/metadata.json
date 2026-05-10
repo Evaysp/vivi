@@ -1,0 +1,20 @@
+{
+  "title": "掃光閃耀字卡",
+  "description": "光線由左至右掃過金色文字，奢華品牌感的閃耀效果。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "華麗",
+    "漸層"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-shimmer/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-shimmer/thumb.jpg",
+  "fileName": "ShimmerTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的掃光閃耀字卡元件（檔案：ShimmerTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"GOLDEN HOUR\" 改成「___」\n2. 把底層文字顏色從暗金 #8b6914 改成「___」，掃光文字顏色從亮奶油 #fff8dc 改成「___」\n3. 把背景色從近黑 #0c0c0c 改成「___」\n4. 把字體大小從 100px 改成 ___px\n5. 把字母間距從 0.12em 改成 ___em（間距越大，掃光效果越明顯）\n6. 把掃光速度調整：目前從第 0 幀到第 80 幀掃過，想更快改成 0 到 50；想更慢改成 0 到 120\n\n請保留原本的由左至右掃光效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-shimmer",
+  "templateUrl": "https://remotionlab.com/showcase/title-shimmer",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

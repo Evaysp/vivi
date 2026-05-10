@@ -1,0 +1,24 @@
+{
+  "title": "全息投影六芒星 Logo",
+  "description": "深藍黑背景上，青色六芒星（兩個疊合三角形）以 SVG 描邊動畫逐步顯現，搭配持續循環的水平掃描線與微幅閃爍，呈現 AI 科幻全息投影質感，品牌名與系統狀態文字依序登場。適合 AI、科技或賽博龐克風格品牌。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "品牌",
+    "全息",
+    "科幻",
+    "六芒星",
+    "AI",
+    "青色"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-hologram/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-hologram/thumb.jpg",
+  "fileName": "LogoHologram.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的全息投影六芒星 Logo 動畫元件（檔案：LogoHologram.tsx），請幫我做以下調整：\n\n1. 修改中心字樣：把「AI」改成你的品牌縮寫（1–3 個字母），fontSize 預設 50px\n2. 修改品牌名：把「Hologram.ai」改成你的品牌名，字體 monospace 保留以強調科技感\n3. 修改狀態文字：把「SYSTEM ONLINE」改成你的品牌狀語或狀態提示（letterSpacing 6px）\n4. 調整配色：\n   - 主色預設青色 #00ffff，可改為 #39ff14（霓虹綠）或其他發光色\n   - 副色預設藍色 #0ea5e9，通常為主色的冷暖對比\n   - 背景預設 #050a0f，建議維持深色\n5. 調整六芒星大小：中心 (960, 430)，半徑預設 80px，修改 r 常數即可縮放\n6. 調整掃描線範圍：預設 width 300px，對應六芒星寬度（約 160px 直徑 + 70px 餘量）\n7. 調整閃爍強度：`0.85 + 0.15 * Math.sin(frame * 0.3)` 中，0.15 控制閃爍幅度，0.3 控制閃爍頻率\n8. 調整各動畫時機：\n   - 淡入 frame 0-20\n   - 六芒星描邊 frame 20-60\n   - 中心字樣 frame 55-85\n   - 品牌名 frame 70-100\n   - 狀態文字 frame 90-115\n\n請保留淡入→六芒星描邊→中心字樣→品牌名→狀態文字的序列結構，只修改我指定的部分，並回傳完整修改後程式碼。\n",
+  "featured": false,
+  "slug": "logo-hologram",
+  "templateUrl": "https://remotionlab.com/showcase/logo-hologram",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

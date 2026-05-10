@@ -1,0 +1,40 @@
+{
+  "name": "remotion-ai",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "build": "next build",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "scrape:remotionlab-public": "node scripts/scrape-remotionlab-public.cjs",
+    "backup:create": "powershell -ExecutionPolicy Bypass -NoLogo -NoProfile -File scripts/create-project-backup.ps1",
+    "backup:restore": "powershell -ExecutionPolicy Bypass -NoLogo -NoProfile -File scripts/restore-project-backup.ps1",
+    "package:code": "powershell -ExecutionPolicy Bypass -NoLogo -NoProfile -File build-code-package.ps1"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@remotion/bundler": "4.0.290",
+    "@remotion/renderer": "4.0.290",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "next": "14.2.35",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "4.0.290",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "@types/react": "^18.3.27",
+    "@types/react-dom": "^18.3.7",
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.23.0",
+    "@babel/preset-react": "^7.22.15",
+    "@babel/preset-typescript": "^7.23.0",
+    "@remotion/cli": "^4.0.290",
+    "typescript": "^5.2.2"
+  },
+  "remotion": {
+    "publicDir": "public"
+  }
+}

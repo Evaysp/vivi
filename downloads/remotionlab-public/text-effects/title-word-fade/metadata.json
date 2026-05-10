@@ -1,0 +1,20 @@
+{
+  "title": "逐字淡入字卡",
+  "description": "每個詞依序從下方淡入，大小與顏色對比強調視覺層次，乾淨現代。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "簡約",
+    "橫式"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-word-fade/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-word-fade/thumb.jpg",
+  "fileName": "WordFadeTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的逐字淡入字卡元件（檔案：WordFadeTitle.tsx），請幫我做以下調整：\n\n1. 把兩行文字從 \"Think\" / \"Different.\" 改成「___」/「___」\n2. 把第一行顏色從深黑 #0f172a 改成「___」\n3. 把第二行顏色從藍色 #3b82f6 改成「___」\n4. 把背景色從淺白 #f8fafc 改成「___」\n5. 把字體大小從 110px 改成 ___px\n6. 把兩行的出場間隔從 20 幀改成 ___ 幀（數字越大，第二行出現越晚）\n\n如果需要三行以上，可以在 WORDS 陣列中繼續新增 `{ text: \"___\", color: \"___\" }` 物件。\n\n請保留原本的逐詞淡入上移效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-word-fade",
+  "templateUrl": "https://remotionlab.com/showcase/title-word-fade",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

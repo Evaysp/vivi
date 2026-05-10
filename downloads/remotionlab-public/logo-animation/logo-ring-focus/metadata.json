@@ -1,0 +1,22 @@
+{
+  "title": "光圈聚焦 Logo",
+  "description": "大圓圈光圈從 600px 縮小聚焦至 160px 圓形 logo 底座，藍色光暈隨縮小增強，漢堡式圖標在圓心浮現，品牌名與標語依序淡入。適合攝影、視覺工作室或科技品牌的沉穩開場。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "品牌",
+    "光圈",
+    "聚焦",
+    "科技"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-ring-focus/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-ring-focus/thumb.jpg",
+  "fileName": "LogoRingFocus.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的光圈聚焦 Logo 動畫元件（檔案：LogoRingFocus.tsx），請幫我做以下調整：\n\n1. 把圓圈底色從深藍 #0f172a 改成「___」\n2. 把圓圈邊框顏色從白色改成「___」（例如金色 #f59e0b）\n3. 把光暈顏色從藍色 rgba(59,130,246) 改成「___」（可配合品牌色）\n4. 把圓圈內的漢堡圖示（三條橫線）換成你的品牌符號：可改成三角形、字母、或其他 div 組合圖形\n5. 把品牌名稱從 \"FOCUS LABS\" 改成「___」（全大寫字距效果最佳）\n6. 把品牌名稱字距從 8px 改成「___」\n7. 把標語從 \"See clearly.\" 改成「___」，或刪除\n8. 調整聚焦速度：frame [0, 50] 可改成 [0, 35]（更快）或 [0, 70]（更慢）\n\n請保留從大圓縮小聚焦的核心動畫邏輯，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "logo-ring-focus",
+  "templateUrl": "https://remotionlab.com/showcase/logo-ring-focus",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

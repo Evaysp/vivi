@@ -1,0 +1,20 @@
+{
+  "title": "霓虹發光字卡",
+  "description": "文字模擬霓虹燈管：先不規則閃爍，再穩定亮起並散發強烈光暈。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "華麗",
+    "漸層"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-neon-glow/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-neon-glow/thumb.jpg",
+  "fileName": "NeonGlowTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的霓虹發光字卡元件（檔案：NeonGlowTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"NEON GLOW\" 改成「___」\n2. 把發光顏色從紫色系（#f0abfc、#d946ef）改成「___」色系（請自行選配兩個深淺色）\n3. 把文字顏色從淡紫 #f5d0fe 改成「___」\n4. 把字體從等寬字型 Courier New 改成「___」（例如：sans-serif、serif、Impact）\n5. 把背景色從極深紫 #050008 改成「___」\n6. 把閃爍結束時間從第 45 幀改成第 ___ 幀（數字越大，閃爍越久）\n\n請保留原本的閃爍 → 穩定亮起的效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-neon-glow",
+  "templateUrl": "https://remotionlab.com/showcase/title-neon-glow",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

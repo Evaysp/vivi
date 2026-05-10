@@ -1,0 +1,20 @@
+{
+  "title": "贊助感謝片尾",
+  "description": "深藍漸層背景上「感謝本集贊助商」標題淡入，品牌 Logo 佔位框以縮放動畫彈出，斜體 Slogan 淡入後細橫線展開，金色優惠碼文字現身，最後「了解更多 →」按鈕彈出，提供完整的贊助商曝光版型。",
+  "date": "2026-04-09",
+  "tags": [
+    "片尾",
+    "贊助",
+    "廣告"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-sponsor/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/outro-sponsor/thumb.jpg",
+  "fileName": "SponsorOutro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的贊助感謝片尾元件（檔案：SponsorOutro.tsx），請幫我做以下調整：\n\n1. 把品牌名稱從 `BRAND NAME` 改成「___」\n2. 把品牌 Slogan 從 `Empowering creators worldwide` 改成「___」\n3. 把優惠碼文字從「輸入優惠碼 REMOTION 享 85 折優惠」改成「___」\n4. 把「了解更多 →」按鈕文字改成「___」\n5. 把背景漸層從 `#0f172a → #0c1445` 改成「___」\n6. 把優惠碼文字顏色從 `#fbbf24` 改成「___」\n\n請保留原本的淡入與縮放動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "outro-sponsor",
+  "templateUrl": "https://remotionlab.com/showcase/outro-sponsor",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

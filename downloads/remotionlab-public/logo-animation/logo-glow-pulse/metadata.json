@@ -1,0 +1,23 @@
+{
+  "title": "光暈脈衝 Logo",
+  "description": "科技/遊戲品牌風格 Logo 動畫。電紫與電藍漸層的菱形從中央 spring 彈入，背景輻射光暈同步亮起，外圈模糊光暈持續脈衝閃爍，品牌縮寫「GX」從內部浮現，品牌名由下滑入，最後狀態指示燈與 ONLINE 標籤完成畫面。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "科技",
+    "遊戲",
+    "光暈",
+    "菱形",
+    "電競"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-glow-pulse/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-glow-pulse/thumb.jpg",
+  "fileName": "LogoGlowPulse.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的光暈脈衝 Logo 動畫元件（檔案：LogoGlowPulse.tsx），請幫我做以下調整：\n\n1. 把主色漸層從 #7c3aed（電紫）→ #2563eb（電藍）改成「___」→「___」\n2. 把品牌縮寫從 \"GX\" 改成「___」（建議 1-2 個字母）\n3. 把品牌名從 \"GlowX\" 改成「___」\n4. 把狀態文字從 \"ONLINE\" 改成「___」（若不需要狀態列可刪除此區塊）\n5. 調整脈衝速度：預設 Math.sin(frame * 0.12)，數值越大脈衝越快\n6. 調整菱形大小：主菱形預設 120×120px，光暈菱形 160×160px，可等比例修改\n7. 背景改成非純黑：可修改 background: \"#050505\" 為其他深色\n\n請保留菱形 + 光暈脈衝的核心視覺結構，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "logo-glow-pulse",
+  "templateUrl": "https://remotionlab.com/showcase/logo-glow-pulse",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

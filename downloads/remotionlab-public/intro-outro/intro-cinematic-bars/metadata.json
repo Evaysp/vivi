@@ -1,0 +1,20 @@
+{
+  "title": "電影感黑邊片頭",
+  "description": "上下黑色遮幕從畫面外滑入形成電影寬銀幕比例，主標題與副標題依序淡入，結尾時黑邊再度展開收場，充滿電影質感。",
+  "date": "2026-04-09",
+  "tags": [
+    "片頭",
+    "電影",
+    "黑邊"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-bars/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-cinematic-bars/thumb.jpg",
+  "fileName": "CinematicBarsIntro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的電影感黑邊片頭元件（檔案：CinematicBarsIntro.tsx），請幫我做以下調整：\n\n1. 把黑邊高度從 216px 改成「___」\n2. 把主標題從 `Cinematic Title` 改成「___」\n3. 把副標題從 `A Film by Your Name` 改成「___」\n4. 把主標題字型大小從 72 改成「___」\n5. 把背景漸層從 `linear-gradient(180deg, #111111 0%, #1a1a2e 100%)` 改成「___」\n6. 把黑邊進場結束幀從 40 改成「___」\n\n請保留原本的黑邊動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "intro-cinematic-bars",
+  "templateUrl": "https://remotionlab.com/showcase/intro-cinematic-bars",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

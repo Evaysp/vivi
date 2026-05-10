@@ -1,0 +1,23 @@
+{
+  "title": "定位針落下 Logo",
+  "description": "地點/服務類品牌 Logo 動畫。紅色定位針從畫面上方急速落下，著地瞬間產生輕微壓縮彈跳與陰影暈散，圓形部分隨即以 spring 展開放大，品牌縮寫「LC」從內部彈出，品牌名與副標語依序滑入淡出。動感十足，適合地圖、外送、旅遊類品牌。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "定位針",
+    "地圖",
+    "服務",
+    "品牌",
+    "彈跳"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-pin-drop/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-pin-drop/thumb.jpg",
+  "fileName": "LogoPinDrop.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的定位針落下 Logo 動畫元件（檔案：LogoPinDrop.tsx），請幫我做以下調整：\n\n1. 把針頭顏色從紅色 #ef4444 改成「___」（建議品牌主色）\n2. 把品牌縮寫從 \"LC\" 改成「___」（建議 1-2 個字母）\n3. 把品牌名從 \"LocationCo.\" 改成「___」\n4. 把副標語從 \"Find your place.\" 改成「___」\n5. 調整針頭初始大小：圓形直徑預設 120px，展開後 200px，可修改 interpolate 目標值\n6. 調整落下速度：frame [0, 20] 可改成 [0, 15]（更快）或 [0, 30]（更慢）\n7. 調整彈跳效果：impactScaleY 的中間值 1.08 可調大（更強烈）或調小（更輕微）\n\n請保留定位針落下 + 展開的核心動畫結構，只修改我指定的部分，然後把完整修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "logo-pin-drop",
+  "templateUrl": "https://remotionlab.com/showcase/logo-pin-drop",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

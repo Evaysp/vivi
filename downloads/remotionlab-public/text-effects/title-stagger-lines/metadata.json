@@ -1,0 +1,20 @@
+{
+  "title": "逐行交錯字卡",
+  "description": "三行文字分別從左、右、下方依序滑入，大小對比強調視覺層次。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "簡約",
+    "橫式"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-stagger-lines/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-stagger-lines/thumb.jpg",
+  "fileName": "StaggerLinesTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的逐行交錯字卡元件（檔案：StaggerLinesTitle.tsx），請幫我做以下調整：\n\n1. 把三行文字從 \"Design\" / \"with Purpose.\" / \"Move the World.\" 改成「___」/「___」/「___」\n2. 把三行文字的顏色從白/灰/藍（#ffffff / #94a3b8 / #38bdf8）改成「___」/「___」/「___」\n3. 把三行文字的字體大小從 120px / 72px / 58px 改成 ___px / ___px / ___px\n4. 把每行的出場方向從 left / right / bottom 改成「___」/「___」/「___」（可選：left、right、bottom）\n5. 把背景色從深藍 #0f172a 改成「___」\n6. 把每行的出場延遲從 0 / 20 / 40 幀改成 ___ / ___ / ___ 幀\n\n請保留原本的三行依序滑入效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-stagger-lines",
+  "templateUrl": "https://remotionlab.com/showcase/title-stagger-lines",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

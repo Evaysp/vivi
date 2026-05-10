@@ -1,0 +1,21 @@
+{
+  "title": "VHS 復古片頭",
+  "description": "仿照老式 VHS 錄影帶質感，畫面帶有水平抖動與掃描線，左上角顯示閃爍 REC 紅點與即時時間碼，主標題以 RGB 色差三層渲染，呈現強烈的復古錄像風格。",
+  "date": "2026-04-09",
+  "tags": [
+    "片頭",
+    "VHS",
+    "復古",
+    "RGB 色差"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-vhs-retro/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/intro-vhs-retro/thumb.jpg",
+  "fileName": "VhsRetroIntro.tsx",
+  "category": "片頭/片尾",
+  "prompt": "我有一個用 Remotion 寫的 VHS 復古片頭元件（檔案：VhsRetroIntro.tsx），請幫我做以下調整：\n\n1. 把主標題從 `YOUR CHANNEL` 改成「___」\n2. 把副標題從 `Est. 2024 · Video Production` 改成「___」\n3. 把主標題字型大小從 80 改成「___」\n4. 把掃描線透明度從 `rgba(0,0,0,0.15)` 改成「___」\n5. 把 REC 紅點顏色從 `#ff2222` 改成「___」\n6. 把背景色從 `#0a0a0a` 改成「___」\n\n請保留原本的抖動、掃描線與 RGB 色差動畫邏輯，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "intro-vhs-retro",
+  "templateUrl": "https://remotionlab.com/showcase/intro-vhs-retro",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

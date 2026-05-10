@@ -1,0 +1,20 @@
+{
+  "title": "故障風字卡",
+  "description": "文字帶 RGB 色道分離與閃爍故障效果，賽博龐克風格十足。",
+  "date": "2026-04-09",
+  "tags": [
+    "文字",
+    "華麗",
+    "橫式"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-glitch-text/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/title-glitch-text/thumb.jpg",
+  "fileName": "GlitchTextTitle.tsx",
+  "category": "文字特效",
+  "prompt": "我有一個用 Remotion 寫的故障風字卡元件（檔案：GlitchTextTitle.tsx），請幫我做以下調整：\n\n1. 把顯示文字從 \"GLITCH TEXT\" 改成「___」\n2. 把主文字顏色從白色 #ffffff 改成「___」\n3. 把紅色色道偏移顏色從 #ff0033 改成「___」\n4. 把藍色色道偏移顏色從 #0033ff 改成「___」\n5. 把背景色從近黑 #09090b 改成「___」\n6. 把故障幀數密度調整：GLITCH-FRAMES 陣列中的數字代表哪幾幀會觸發故障，可以增加或減少陣列中的數字來控制故障頻率\n\n請保留原本的 RGB 分離 + clip-path 故障效果，只修改我指定的部分，然後把完整的修改後程式碼給我。\n",
+  "featured": false,
+  "slug": "title-glitch-text",
+  "templateUrl": "https://remotionlab.com/showcase/title-glitch-text",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}

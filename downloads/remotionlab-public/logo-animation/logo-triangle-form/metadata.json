@@ -1,0 +1,23 @@
+{
+  "title": "三角碎片拼合抽象 Logo",
+  "description": "三個彩色三角形碎片（藍、紫、青）各自從畫面外不同方向以 spring 彈飛入，stagger 12 幀逐一落定，拼合成完整等邊三角形，中央倒三角負空間隨後縮放顯現，形成幾何品牌圖標，品牌名與標語最後依序浮入。適合科技、設計或建築類品牌。",
+  "date": "2026-04-09",
+  "tags": [
+    "Logo動畫",
+    "品牌",
+    "三角形",
+    "幾何",
+    "碎片",
+    "Spring動畫"
+  ],
+  "video": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-triangle-form/preview.mp4",
+  "thumbnail": "https://pub-1cc20f8a898349ab9b2823b040fcd0b8.r2.dev/showcase/logo-triangle-form/thumb.jpg",
+  "fileName": "LogoTriangleForm.tsx",
+  "category": "Logo 動畫",
+  "prompt": "我有一個用 Remotion 寫的三角碎片拼合 Logo 動畫元件（檔案：LogoTriangleForm.tsx），請幫我做以下調整：\n\n1. 修改品牌名：把「Triform」改成你的品牌名（建議 1–2 個英文單字）\n2. 修改副標語：把「Built to last.」改成你的品牌標語\n3. 調整配色（三個小三角形）：\n   - 左下三角預設藍色 #3b82f6，可改為品牌主色\n   - 右下三角預設紫色 #8b5cf6，可改為品牌副色\n   - 頂部三角預設青色 #06b6d4，可改為品牌第三色\n   - 中央倒三角（負空間）背景色 #0f0f0f 需與畫面背景相同\n4. 調整三角形大小：\n   - 目前大三角高 220px，中心約 (960, 430)\n   - 頂點：頂部 (960,320)、左下 (833,540)、右下 (1087,540)\n   - 各小三角的頂點坐標需同步修改，請依比例縮放\n5. 調整 spring 物理參數：\n   - damping 預設 18（越低越彈跳），stiffness 預設 120（越高越快）\n   - stagger 間隔預設 12 幀，可縮到 8 幀（更緊湊）或拉到 16 幀（更連貫）\n6. 調整各三角形飛入起始位置：\n   - 左下：預設 (-300, 200)，可改成更遠如 (-500, 300)\n   - 右下：預設 (300, 200)\n   - 頂部：預設 (0, -300)，可改為 (0, -500)\n7. 調整品牌名與副標語出現時機：\n   - 品牌名 frame 80-105，副標語 frame 100-120\n\n請保留三角飛入→中央負空間→品牌名→副標語的序列結構，只修改我指定的部分，並回傳完整修改後程式碼。\n",
+  "featured": false,
+  "slug": "logo-triangle-form",
+  "templateUrl": "https://remotionlab.com/showcase/logo-triangle-form",
+  "sourceAccess": "public showcase metadata only",
+  "codeStatus": "locked behind site login; not downloaded"
+}
